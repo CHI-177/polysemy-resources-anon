@@ -1,0 +1,596 @@
+question_id,question_type,sentence,relation_type,option_A,option_B,option_C,option_D,gold_option,gpt_answer,deepseek_answer,bert_answer,eval_gpt,eval_deepseek,eval_bert
+Q1_开_enlarge_0130,Q1,第二节一开始，开拓者延续了良好的状态，迅速发动进攻，将领先优势扩大至17分。,metaphorical,分割,贯通，使通,扩大,启，张，把关闭的东西打开,D,D,D,C,Correct,Correct,Incorrect
+Q1_开_cut_through_0115,Q1,它采用机械原理，通过转动钥匙或旋钮等工具，带动锁芯运动，从而打开锁具。,image schema,贯通，使通,扩大,分割,启，张，把关闭的东西打开,D,D,D,B,Correct,Correct,Incorrect
+Q1_拿_control_0019,Q1,成语例子：他的学习成绩非常好，考大学应当是十拿九稳的事。,metaphorical,攻下，占领,拿取实物,控制、掌控,,B,C,B,D,Incorrect,Correct,Incorrect
+Q1_开_open_0106,Q1,问题设定为n盏灯经k人操作后，哪些灯仍处于开启状态。,proto,启，张，把关闭的东西打开,分割,扩大,贯通，使通,A,A,A,B,Correct,Correct,Incorrect
+Q1_吃_feel_0370,Q1,（感谢老哥斧正按假面骑士剧情的基础模版，每一代作品至少会出现一名“吃瘪王”。,metaphorical,感受,把东西送进口中咽下,忍受，承受,,B,C,B,A,Incorrect,Correct,Incorrect
+Q1_开_enlarge_0131,Q1,如：「各航空公司竞相开辟新航线。,metaphorical,启，张，把关闭的东西打开,扩大,贯通，使通,分割,A,C,A,C,Incorrect,Correct,Incorrect
+Q1_开_seperate_0144,Q1,公职人员梦见自己肚子被割开，需要受到法律的惩罚，同犯也需要受到应有的制裁。,image schema,贯通，使通,分割,启，张，把关闭的东西打开,扩大,C,B,B,D,Incorrect,Incorrect,Incorrect
+Q1_吃_eat_0360,Q1,可以说有醋可吃糠，无醋肉不香。,proto,把东西送进口中咽下,感受,忍受，承受,,A,A,A,D,Correct,Correct,Incorrect
+Q1_走_move_0261,Q1,很多人快要走的时候，往往想开了、放下了、解脱了，就会变得很善良，给别人帮助，给别人说一些好话。,image schema,往来，社交,行走,移动,,B,C,B,D,Incorrect,Correct,Incorrect
+Q1_拿_occupy_0026,Q1,最终拿下了客户，一整年的计划，也是一个重要客户的标志。,image schema,攻下，占领,控制、掌控,拿取实物,,C,A,A,A,Incorrect,Incorrect,Incorrect
+Q1_走_social_contact_0275,Q1,2、初一、十五，不走亲戚。,metaphorical,移动,往来，社交,行走,,C,A,A,D,Incorrect,Incorrect,Incorrect
+Q1_拿_occupy_0027,Q1,一些可能用来描述“拿下客户”的英文表达包括：…。,image schema,控制、掌控,攻下，占领,拿取实物,,C,C,C,A,Correct,Correct,Incorrect
+Q1_开_seperate_0139,Q1,书里的25个故事像25把斧头，劈开了色厉内荏、外强中干的性别枷…。,image schema,贯通，使通,分割,扩大,启，张，把关闭的东西打开,D,B,B,D,Incorrect,Incorrect,Correct
+Q1_拿_take_0004,Q1,这是很多网友看到快手极速版推出的“完成365天打卡任务白拿好礼”的活动后发出的疑问。,proto,攻下，占领,控制、掌控,拿取实物,,C,C,C,D,Correct,Correct,Incorrect
+Q1_走_social_contact_0277,Q1,而在年轻一代、部分中年一代看来，走亲访友，貌似没有什…。,metaphorical,移动,行走,往来，社交,,B,C,A,A,Incorrect,Incorrect,Incorrect
+Q1_吃_eat_0355,Q1,下面一起来看看国内公认十大最好吃的鸡品种。,proto,把东西送进口中咽下,感受,忍受，承受,,A,A,A,B,Correct,Correct,Incorrect
+Q1_开_open_0111,Q1,整理了一下新手开机的常见错误。,proto,贯通，使通,扩大,启，张，把关闭的东西打开,分割,C,C,C,A,Correct,Correct,Incorrect
+Q1_走_move_0260,Q1,包括形容人走了又来了的词是什么(成语形容人来了又走了)成语解释，拼音，成语出处等。,image schema,往来，社交,移动,行走,,C,C,B,C,Correct,Incorrect,Correct
+Q1_走_social_contact_0273,Q1,春节走亲戚、回娘家，是中国人祖祖辈辈传承下来的习俗。,metaphorical,移动,往来，社交,行走,,C,B,A,A,Incorrect,Incorrect,Incorrect
+Q1_走_move_0264,Q1,包括形容人走了又来了的词是什么(成语形容人来了又走了)成语解释，拼音，成语出处等。,image schema,行走,移动,往来，社交,,A,C,A,D,Incorrect,Correct,Incorrect
+Q1_拿_control_0018,Q1,例句有“对他来说，这是个十拿九稳的事。,metaphorical,拿取实物,攻下，占领,控制、掌控,,A,A,A,B,Correct,Correct,Incorrect
+Q1_拿_control_0010,Q1,经过代理机构申报专利的前提下，专利授权后，中介机构11--15天拿到…。,metaphorical,控制、掌控,拿取实物,攻下，占领,,B,B,B,D,Correct,Correct,Incorrect
+Q1_吃_bear_0375,Q1,此词本为石匠师傅打石磨时，石胚吃一钎，石胚即长一齿之意。,metaphorical,感受,忍受，承受,把东西送进口中咽下,,C,B,B,C,Incorrect,Incorrect,Correct
+Q1_拿_control_0011,Q1,"手拿把攥，汉语俗语，北京地方俗语中的常用表达，其核心语义为""比喻对某事的处理很有把握""。",metaphorical,拿取实物,攻下，占领,控制、掌控,,A,A,A,B,Correct,Correct,Incorrect
+Q1_吃_bear_0381,Q1,遗憾的是，今天仍有很多只吃堑不长智的人。,metaphorical,感受,忍受，承受,把东西送进口中咽下,,C,C,B,D,Correct,Incorrect,Incorrect
+Q1_开_cut_through_0120,Q1,建设更高水平开放型经济新体制，海关…。,image schema,分割,贯通，使通,扩大,启，张，把关闭的东西打开,D,B,D,B,Incorrect,Correct,Incorrect
+Q1_走_walk_0250,Q1,不一会，它又出现在阳台外面，沿着阑干慢慢走过…。,proto,往来，社交,行走,移动,,B,B,B,C,Correct,Correct,Incorrect
+Q1_走_walk_0258,Q1,他等啊等，一直不见公共汽车的影子，元元决定走到学校去。,proto,行走,移动,往来，社交,,A,A,A,C,Correct,Correct,Incorrect
+Q1_开_cut_through_0122,Q1,就是一把钥匙能开启一定范围内的挂锁。,image schema,贯通，使通,启，张，把关闭的东西打开,扩大,分割,B,A,B,A,Incorrect,Correct,Incorrect
+Q1_拿_take_0000,Q1,高考这么重要的事情，如果他们还能忘记拿准考证跑错考场，那…。,proto,控制、掌控,攻下，占领,拿取实物,,C,C,C,B,Correct,Correct,Incorrect
+Q1_拿_control_0012,Q1,相近表达：与之意思相近的成语有“十拿九稳”“稳操胜…。,metaphorical,控制、掌控,拿取实物,攻下，占领,,B,B,B,D,Correct,Correct,Incorrect
+Q1_开_cut_through_0117,Q1,开通后支持刷手机乘坐公交、地铁、出租、轮渡、有轨电…。,image schema,扩大,贯通，使通,分割,启，张，把关闭的东西打开,D,B,B,C,Incorrect,Incorrect,Incorrect
+Q1_开_enlarge_0126,Q1,番禺经开区成立于2018年，是由广东省政府批准设立的省…。,metaphorical,扩大,启，张，把关闭的东西打开,分割,贯通，使通,B,B,B,A,Correct,Correct,Incorrect
+Q1_拿_occupy_0024,Q1,5.他拿下了钢琴比赛的最高奖项。,image schema,控制、掌控,拿取实物,攻下，占领,,B,A,B,B,Incorrect,Correct,Correct
+Q1_开_seperate_0142,Q1,然而，劈开砖的质量直接影响到建筑的美观和安全性，因此对其性能的检测显得尤为重要。,image schema,扩大,贯通，使通,启，张，把关闭的东西打开,分割,C,D,D,D,Incorrect,Incorrect,Incorrect
+Q1_吃_feel_0368,Q1,比如在某个制度或规定下，因为不符合要求而无法实现自己的想法或行动，这也可以被形容为“吃瘪”。,metaphorical,感受,把东西送进口中咽下,忍受，承受,,B,B,B,D,Correct,Correct,Incorrect
+Q1_走_move_0269,Q1,"如果你身边有朋友也在为网贷逾期烦恼,不妨把这篇文章分享给他，也许就能帮他们少走一些弯路。",image schema,往来，社交,行走,移动,,B,B,B,C,Correct,Correct,Incorrect
+Q1_拿_control_0015,Q1,对于内地人来说，拿到一个香港身份的好处是非常多的，比如在子女教育方面，不仅可以享受…。,metaphorical,控制、掌控,攻下，占领,拿取实物,,C,C,C,C,Correct,Correct,Correct
+Q1_走_walk_0257,Q1,每分钟走50米，距离学校还有：…。,proto,移动,往来，社交,行走,,C,C,A,A,Correct,Incorrect,Incorrect
+Q1_拿_occupy_0022,Q1,“拿下”的近义词有：取下、攻占、占领、征服、战胜抢首…。,image schema,攻下，占领,拿取实物,控制、掌控,,B,B,B,D,Correct,Correct,Incorrect
+Q1_开_cut_through_0119,Q1,重大项目推进情况城开高速。,image schema,贯通，使通,分割,启，张，把关闭的东西打开,扩大,C,A,A,D,Incorrect,Incorrect,Incorrect
+Q1_开_seperate_0140,Q1,传统的劈开砖，就是同质砖、面砖、外墙砖…。,image schema,贯通，使通,分割,启，张，把关闭的东西打开,扩大,C,B,B,B,Incorrect,Incorrect,Incorrect
+Q1_走_social_contact_0276,Q1,所以，面对势利眼的亲戚，减少走动才是明智之举。,metaphorical,往来，社交,移动,行走,,C,C,B,B,Correct,Incorrect,Incorrect
+Q1_开_open_0105,Q1,2、处罚措施：违反开灯规定可能面临警…。,proto,启，张，把关闭的东西打开,扩大,分割,贯通，使通,A,A,A,D,Correct,Correct,Incorrect
+Q1_开_seperate_0137,Q1,劈开砖，也名劈裂砖、劈离砖，是传统陶瓷墙砖的一种，因纹理独特，质感细腻，多年来广受青睐。,image schema,贯通，使通,启，张，把关闭的东西打开,扩大,分割,B,D,D,A,Incorrect,Incorrect,Incorrect
+Q1_吃_bear_0379,Q1,成语“吃一堑，长一智”的字面意思是，遭受一次挫折，就获得一次教训，得到一次提高与收获。,metaphorical,把东西送进口中咽下,感受,忍受，承受,,A,A,C,B,Correct,Incorrect,Incorrect
+Q1_拿_take_0009,Q1,"摄图网为您提供164个拿手机免抠元素,包含拿手机元素,拿手机免抠素材,拿手机png图片等,欢迎下载。",proto,控制、掌控,攻下，占领,拿取实物,,C,C,C,C,Correct,Correct,Correct
+Q1_开_open_0108,Q1,每个人按照编号对灯进行开关…。,proto,扩大,分割,贯通，使通,启，张，把关闭的东西打开,D,D,D,D,Correct,Correct,Correct
+Q1_开_seperate_0141,Q1,林羽原本是一个平凡的上班族，然而一次意外让他获得了劈开山岳的能力，从此…。,image schema,启，张，把关闭的东西打开,贯通，使通,扩大,分割,A,D,D,C,Incorrect,Incorrect,Incorrect
+Q1_拿_occupy_0025,Q1,想要拿下一个项目，涉及各方面的因素，不仅仅需要公司自身的实力，还有这几点你需要做到：一、政策…。,image schema,拿取实物,攻下，占领,控制、掌控,,A,B,A,C,Incorrect,Correct,Incorrect
+Q1_吃_feel_0372,Q1,在咸宁方言中，“吃瘪”是形容一个人被迫屈服、认输的窘态；而在宁波方言和上海话里，“吃…。,metaphorical,把东西送进口中咽下,感受,忍受，承受,,A,A,A,A,Correct,Correct,Correct
+Q1_拿_occupy_0028,Q1,外贸参展如何抓住近距离沟通的优势，拿下客户?做…。,image schema,控制、掌控,拿取实物,攻下，占领,,B,A,B,A,Incorrect,Correct,Incorrect
+Q1_走_social_contact_0278,Q1,走亲戚的次序已然变成了某种纯时间性质的前后，而其生产则是人际之间...。,metaphorical,往来，社交,移动,行走,,C,B,B,D,Incorrect,Incorrect,Incorrect
+Q1_吃_bear_0383,Q1,百科释义吃一堑长一智，本为石匠师傅打石磨时，石胚吃一钎，石胚即长一齿之意。,metaphorical,忍受，承受,感受,把东西送进口中咽下,,C,A,C,B,Incorrect,Correct,Incorrect
+Q1_开_enlarge_0128,Q1,接下来详细解释这一概念：1.基本含义：在日常用语中，“开拓”一词常常用来描述对未知领域的探索和开发。,metaphorical,扩大,贯通，使通,分割,启，张，把关闭的东西打开,D,D,D,A,Correct,Correct,Incorrect
+Q1_拿_take_0005,Q1,1.拿别人手机涉嫌犯罪：若手机是遗失物，捡到者需归还；若手机价值超5千且拒不归还，涉嫌侵占罪。,proto,拿取实物,控制、掌控,攻下，占领,,A,A,A,C,Correct,Correct,Incorrect
+Q1_开_seperate_0143,Q1,劈开砖以其自然的质感，表面…。,image schema,贯通，使通,分割,扩大,启，张，把关闭的东西打开,D,B,B,A,Incorrect,Incorrect,Incorrect
+Q1_走_walk_0253,Q1,建议你在那扎营等白令海峡结冰走过去，5、60迈。,proto,行走,往来，社交,移动,,A,C,A,B,Incorrect,Correct,Incorrect
+Q1_开_open_0114,Q1,在打开电脑之前，有一些准备工作是必要的。,proto,扩大,分割,启，张，把关闭的东西打开,贯通，使通,C,A,A,C,Incorrect,Incorrect,Correct
+Q1_开_cut_through_0124,Q1,今天嘉美开板，我说这个事情最好不要掺和。,image schema,扩大,贯通，使通,启，张，把关闭的东西打开,分割,C,C,C,C,Correct,Correct,Correct
+Q1_开_open_0110,Q1,二、打开“米家”app：1：我的→实验室功能→iOS捷径→点开“将…。,proto,贯通，使通,启，张，把关闭的东西打开,扩大,分割,B,B,B,C,Correct,Correct,Incorrect
+Q1_拿_control_0016,Q1,已经毕业，拿到了学位证，但是遗失。,metaphorical,控制、掌控,攻下，占领,拿取实物,,C,C,C,B,Correct,Correct,Incorrect
+Q1_吃_bear_0380,Q1,解释：本为石匠师傅打石磨时，石胚吃一钎，石胚即长一齿之意。,metaphorical,把东西送进口中咽下,感受,忍受，承受,,A,C,A,C,Incorrect,Correct,Incorrect
+Q1_开_open_0109,Q1,其实很简单操作方法01首先在开启背光灯之前，要确定…。,proto,扩大,启，张，把关闭的东西打开,分割,贯通，使通,B,B,B,B,Correct,Correct,Correct
+Q1_走_move_0265,Q1,很多人快要走的时候，往往想开了、放下了、解脱了，就会变得很善良，给别人帮助，给别人说一些好话。,image schema,移动,行走,往来，社交,,B,B,A,C,Correct,Incorrect,Incorrect
+Q1_拿_take_0007,Q1,那么，如何在游戏中拿出手机呢。,proto,拿取实物,攻下，占领,控制、掌控,,A,A,A,C,Correct,Correct,Incorrect
+Q1_开_cut_through_0118,Q1,开通后支持刷手机乘坐公交、地铁、出租、轮渡、有轨电车，与实体卡享受…。,image schema,启，张，把关闭的东西打开,贯通，使通,扩大,分割,A,B,B,A,Incorrect,Incorrect,Correct
+Q1_走_walk_0256,Q1,盲人走在盲道上有绝对的路权，也不可有任何障碍物阻挡盲道。,proto,行走,移动,往来，社交,,A,B,A,A,Incorrect,Correct,Correct
+Q1_吃_eat_0359,Q1,医生：若想稳定尿酸，3种素食尽量少吃_代谢_饮食_果糖。,proto,感受,忍受，承受,把东西送进口中咽下,,C,C,C,B,Correct,Correct,Incorrect
+Q1_吃_feel_0365,Q1,比如说你和你女朋友逛街时，你看见一个漂亮的女孩，瞄了两眼，这时你女朋友的表情就是吃醋。,metaphorical,感受,把东西送进口中咽下,忍受，承受,,B,A,B,C,Incorrect,Correct,Incorrect
+Q1_拿_take_0008,Q1,日前，成都一女子拿着手机骑单车，不慎摔倒后身亡。,proto,控制、掌控,拿取实物,攻下，占领,,B,B,B,D,Correct,Correct,Incorrect
+Q1_拿_control_0013,Q1,拿到香港身份不难，但拿到香港护照，时间跨度是比较久的。,metaphorical,控制、掌控,攻下，占领,拿取实物,,C,C,C,D,Correct,Correct,Incorrect
+Q1_走_social_contact_0274,Q1,这期间，几乎家家户户不是忙着走亲戚，便是忙着招待来客。,metaphorical,移动,行走,往来，社交,,B,C,A,D,Incorrect,Incorrect,Incorrect
+Q1_拿_take_0003,Q1,"免费下载和使用800,000+个“拿手机”素材图片。",proto,攻下，占领,控制、掌控,拿取实物,,C,C,C,A,Correct,Correct,Incorrect
+Q1_拿_control_0017,Q1,十拿九稳成语解释十拿九稳【解释】比喻很有把握。,metaphorical,控制、掌控,拿取实物,攻下，占领,,B,B,B,B,Correct,Correct,Correct
+Q1_开_open_0113,Q1,本文将详细介绍电脑开机时需要按下的键及其相关操作。,proto,扩大,分割,启，张，把关闭的东西打开,贯通，使通,C,C,C,B,Correct,Correct,Incorrect
+Q1_走_walk_0252,Q1,对某种事物迷恋到失去理智的地步掩鼻而过：捂着鼻子走过去。,proto,移动,行走,往来，社交,,B,B,A,C,Correct,Incorrect,Incorrect
+Q1_吃_eat_0356,Q1,”、“吃太多会胖，吃太少会饿，怎么才能刚刚好。,proto,忍受，承受,把东西送进口中咽下,感受,,B,B,B,D,Correct,Correct,Incorrect
+Q1_拿_take_0006,Q1,",手拿黑色苹果手机,双手拿着智能手机，处于横向视…。",proto,拿取实物,攻下，占领,控制、掌控,,A,A,A,D,Correct,Correct,Incorrect
+Q1_走_move_0263,Q1,和女朋友家庭条件差距很大，两个人能走到最后吗。,image schema,移动,行走,往来，社交,,B,B,A,A,Correct,Incorrect,Incorrect
+Q1_吃_feel_0367,Q1,词语解释吃瘪[chībiě]⒈方言。,metaphorical,感受,把东西送进口中咽下,忍受，承受,,B,B,B,C,Correct,Correct,Incorrect
+Q1_吃_feel_0369,Q1,3、如今竟在一个马贼出身的幸臣面前屡屡吃瘪，叫他如何能受得了。,metaphorical,忍受，承受,感受,把东西送进口中咽下,,C,A,A,C,Incorrect,Incorrect,Correct
+Q1_开_enlarge_0129,Q1,上海拓开电子有限公司是国内一家同时作为国际一线品牌中国总代理的公司。,metaphorical,启，张，把关闭的东西打开,扩大,贯通，使通,分割,A,B,A,D,Incorrect,Correct,Incorrect
+Q1_开_enlarge_0125,Q1,获取最新的Win11更新资讯、解决方案和资源分享，助力每位计算机爱好者和开发者。,metaphorical,贯通，使通,扩大,分割,启，张，把关闭的东西打开,D,D,D,D,Correct,Correct,Correct
+Q1_吃_feel_0374,Q1,假面骑士中那些变身后光速吃瘪(20秒内)的骑士_哔哩哔哩_bilibili。,metaphorical,把东西送进口中咽下,感受,忍受，承受,,A,C,C,C,Incorrect,Incorrect,Incorrect
+Q1_开_cut_through_0121,Q1,2、单开锁是外面有个钥匙孔，室外要用钥匙…。,image schema,贯通，使通,扩大,分割,启，张，把关闭的东西打开,D,D,D,D,Correct,Correct,Correct
+Q1_吃_eat_0363,Q1,网上流传着7种人不能吃醋的新闻，可是仔细看来，却又不是没有道理。,proto,把东西送进口中咽下,忍受，承受,感受,,A,A,A,D,Correct,Correct,Incorrect
+Q1_开_seperate_0136,Q1,题干中的“劈开太行山，漳河穿山来”是一句具有特定历史和文化背景的描述，它指向的是某一具体的水利工程。,image schema,分割,启，张，把关闭的东西打开,扩大,贯通，使通,B,A,A,A,Incorrect,Incorrect,Incorrect
+Q1_吃_bear_0382,Q1,其实这句话很难实现，如果人人都能做到这一点，吃堑即长智，受挫便成长，这世界上就不会有失败者。,metaphorical,忍受，承受,感受,把东西送进口中咽下,,C,B,B,D,Incorrect,Incorrect,Incorrect
+Q1_走_walk_0259,Q1,过去我们就是鉴于他们的经验教训，少走了一些弯路…。,proto,往来，社交,行走,移动,,B,C,C,A,Incorrect,Incorrect,Incorrect
+Q1_吃_bear_0377,Q1,吃一堑，长一智指受一次挫折，得到一次教训，就增长一分才智。,metaphorical,把东西送进口中咽下,忍受，承受,感受,,A,B,B,C,Incorrect,Incorrect,Incorrect
+Q1_走_social_contact_0271,Q1,春节过后，也正式进入了互相走亲访友的日子了。,metaphorical,往来，社交,行走,移动,,B,B,B,D,Correct,Correct,Incorrect
+Q1_开_cut_through_0116,Q1,那么，准妈咪们和新妈咪是否知道开奶、通奶、催奶的技巧?如何在哺乳后期顺利回奶?今天，小编就…。,image schema,分割,贯通，使通,启，张，把关闭的东西打开,扩大,C,A,A,B,Incorrect,Incorrect,Incorrect
+Q1_开_enlarge_0133,Q1,它强调通过努力和创造力去拓展新的领域，突破传统的限制，开创新的局面。,metaphorical,分割,启，张，把关闭的东西打开,贯通，使通,扩大,B,B,A,B,Correct,Incorrect,Correct
+Q1_走_social_contact_0270,Q1,无论是习俗的变化还是礼物的演进，走亲戚的文化内涵依然深植于每一个中国人的心中，寄托…。,metaphorical,移动,行走,往来，社交,,B,B,B,D,Correct,Correct,Incorrect
+Q1_开_cut_through_0123,Q1,开通后支持刷手机乘坐公交、地铁、出租、轮渡、有轨电车，与实体卡享受同样的乘车优惠。,image schema,扩大,分割,启，张，把关闭的东西打开,贯通，使通,C,A,A,A,Incorrect,Incorrect,Incorrect
+Q1_走_move_0268,Q1,当田字中心有别的棋子时，俗称“塞（相）象眼”，则不许走过去。,image schema,移动,往来，社交,行走,,C,B,A,D,Incorrect,Incorrect,Incorrect
+Q1_吃_feel_0366,Q1,吃瘪的意思：1.受窘；受挫：当众吃瘪。,metaphorical,把东西送进口中咽下,忍受，承受,感受,,A,D,D,C,Incorrect,Incorrect,Incorrect
+Q1_开_enlarge_0132,Q1,国语辞典开辟[kāipì]⒈开拓、辟建。,metaphorical,贯通，使通,启，张，把关闭的东西打开,分割,扩大,B,C,C,D,Incorrect,Incorrect,Incorrect
+Q1_走_walk_0255,Q1,6、梦见走到路的尽头，或是路被挡住…。,proto,移动,往来，社交,行走,,C,D,D,B,Incorrect,Incorrect,Incorrect
+Q1_开_open_0107,Q1,开灯睡觉容易打乱身体的生物钟，对身体造成一定的危害：1、影响褪黑素分…。,proto,启，张，把关闭的东西打开,分割,贯通，使通,扩大,A,A,A,B,Correct,Correct,Incorrect
+Q1_吃_bear_0378,Q1,吃一堑：意思是受一次栽…。,metaphorical,把东西送进口中咽下,忍受，承受,感受,,A,A,A,C,Correct,Correct,Incorrect
+Q1_开_enlarge_0134,Q1,3.古代神话，盘古氏开天辟地。,metaphorical,启，张，把关闭的东西打开,分割,扩大,贯通，使通,A,A,C,A,Correct,Incorrect,Correct
+Q1_开_seperate_0138,Q1,25个明亮、大胆的新童话，试图劈开那些“从来如此”的童话和传说，还原女性本来的面目与真实的欲望。,image schema,分割,启，张，把关闭的东西打开,贯通，使通,扩大,B,C,B,D,Incorrect,Correct,Incorrect
+Q1_吃_eat_0364,Q1,其食用方法遵循“早吃姜，补药汤”的传统理…。,proto,忍受，承受,把东西送进口中咽下,感受,,B,A,B,A,Incorrect,Correct,Incorrect
+Q1_开_open_0112,Q1,本文将详细介绍电脑开机的步骤，以及在不同情况下需要按哪个键。,proto,扩大,贯通，使通,分割,启，张，把关闭的东西打开,D,B,B,C,Incorrect,Incorrect,Incorrect
+Q1_拿_occupy_0029,Q1,挑战式销售，4步即可拿下客户。,image schema,拿取实物,攻下，占领,控制、掌控,,A,B,C,D,Incorrect,Incorrect,Incorrect
+Q1_吃_eat_0362,Q1,过年过节，杭州人的家宴是不是一定要吃西湖醋鱼。,proto,感受,忍受，承受,把东西送进口中咽下,,C,B,B,D,Incorrect,Incorrect,Incorrect
+Q1_吃_feel_0371,Q1,"基本释义[chībiě]""吃瘪""是一个口语词，表示遭受挫折、失败或不利的事。",metaphorical,把东西送进口中咽下,感受,忍受，承受,,A,C,A,A,Incorrect,Correct,Correct
+Q1_拿_take_0001,Q1,已经毕业，拿到了学位证，但是遗失。,proto,拿取实物,攻下，占领,控制、掌控,,A,D,C,C,Incorrect,Incorrect,Incorrect
+Q1_开_enlarge_0127,Q1,7月23日-24日，2025开放原子开源生态大会在北京举行。,metaphorical,分割,贯通，使通,扩大,启，张，把关闭的东西打开,D,C,A,D,Incorrect,Incorrect,Correct
+Q1_拿_occupy_0021,Q1,2、其次表达对该项目的支持和期待，肯定公司的努力，并对新拿下的项目表现出乐观的态…。,image schema,攻下，占领,控制、掌控,拿取实物,,C,A,A,B,Incorrect,Incorrect,Incorrect
+Q1_拿_take_0002,Q1,人拿手机图片搜索结果搜索结果不满意。,proto,控制、掌控,攻下，占领,拿取实物,,C,B,B,A,Incorrect,Incorrect,Incorrect
+Q1_拿_occupy_0023,Q1,在拿下项目技术人员的过程中，明确项目需求显得尤为重要。,image schema,控制、掌控,拿取实物,攻下，占领,,B,C,C,C,Incorrect,Incorrect,Incorrect
+Q1_吃_eat_0358,Q1,今年7月，桂林市纪委监委印发违规吃喝问题专项整治工作任务分工表，明确13项主要任务…。,proto,把东西送进口中咽下,忍受，承受,感受,,A,A,A,C,Correct,Correct,Incorrect
+Q1_走_social_contact_0279,Q1,春节走亲戚的顺序如下：1、大年初一：晚辈向长辈拜年。,metaphorical,往来，社交,行走,移动,,B,A,A,D,Incorrect,Incorrect,Incorrect
+Q1_走_move_0267,Q1,如果你试讲的10分钟一直在着急走流程，流程是走完了。,image schema,行走,往来，社交,移动,,A,B,B,A,Incorrect,Incorrect,Correct
+Q1_吃_feel_0373,Q1,形容吃瘪的成语-形容吃瘪的成语有：1.灰头土脸：形容因失败或受挫而情绪低落、神情沮丧的样子。,metaphorical,忍受，承受,感受,把东西送进口中咽下,,C,A,A,B,Incorrect,Incorrect,Incorrect
+Q1_走_walk_0254,Q1,我走在我自己的人生路上，哪怕路途的风雨再大，大到我步履维艰。,proto,移动,往来，社交,行走,,C,B,B,C,Incorrect,Incorrect,Correct
+Q1_走_move_0266,Q1,但对于“人走茶凉”也需辩证看待，“不在其位，不谋其政”的这种“茶凉”，应当成为一种常态。,image schema,往来，社交,行走,移动,,B,D,D,D,Incorrect,Incorrect,Incorrect
+Q1_走_move_0262,Q1,但对于“人走茶凉”也需辩证看待，“不在其位，不谋其政”的这种“茶凉”，应当成为一种常态。,image schema,行走,移动,往来，社交,,A,B,A,D,Incorrect,Correct,Incorrect
+Q1_吃_bear_0376,Q1,吃一堑，长一智是一个汉语成语，本为石匠师傅打石磨时，石胚吃一钎，石胚即长一齿之意。,metaphorical,忍受，承受,把东西送进口中咽下,感受,,B,C,C,A,Incorrect,Incorrect,Incorrect
+Q1_吃_bear_0384,Q1,后人添加“吃”字以形象化描述挫折经历。,metaphorical,感受,把东西送进口中咽下,忍受，承受,,B,A,A,B,Incorrect,Incorrect,Correct
+Q1_拿_occupy_0020,Q1,要成功拿下项目，需要有一定的准备和策略。,image schema,拿取实物,攻下，占领,控制、掌控,,A,A,A,B,Correct,Correct,Incorrect
+Q1_开_seperate_0135,Q1,冰箱单独空开16安行不行。,image schema,贯通，使通,启，张，把关闭的东西打开,分割,扩大,B,C,D,B,Incorrect,Incorrect,Correct
+Q1_走_walk_0251,Q1,「世界是一座桥，走过去，不要在上面盖房子」的英文原文是什么。,proto,往来，社交,行走,移动,,B,C,C,B,Incorrect,Incorrect,Correct
+Q1_吃_eat_0361,Q1,吐槽不好吃的，是你没吃对地方，你自己不知道吗。,proto,忍受，承受,感受,把东西送进口中咽下,,C,C,C,B,Correct,Correct,Incorrect
+Q1_拿_control_0014,Q1,以下我说拿的，是可以正常购买或者拾取的，说偷的，则表示需要潜行或者遮掩视线偷的。,metaphorical,控制、掌控,拿取实物,攻下，占领,,B,A,C,B,Incorrect,Incorrect,Correct
+Q1_走_social_contact_0272,Q1,"不出正月都是年,平日里走动少的老亲戚、老相识…。",metaphorical,往来，社交,移动,行走,,C,A,A,A,Incorrect,Incorrect,Incorrect
+Q1_吃_eat_0357,Q1,日本天皇为了打胜仗，要带头节约，一天只吃两顿饭，节省出一顿饭的开销当作军费，鼓励前方士兵打仗。,proto,感受,忍受，承受,把东西送进口中咽下,,C,A,B,D,Incorrect,Incorrect,Incorrect
+Q2_走_social_contact_0313,Q2,经历了几年的封禁后，这个可以随意走动的春节，意义非同凡响。,metaphorical,行走,移动,往来，社交,,A,C,A,C,Incorrect,Correct,Incorrect
+Q2_拿_control_0046,Q2,例:有他出面幫忙，這事已十拿九穩。,metaphorical,控制、掌控,拿取实物,攻下，占领,,B,C,C,D,Incorrect,Incorrect,Incorrect
+Q2_吃_eat_0390,Q2,吃饭是人摄入负熵维持耗散体系的主要方…。,proto,忍受，承受,感受,把东西送进口中咽下,,C,C,A,D,Correct,Incorrect,Incorrect
+Q2_开_seperate_0196,Q2,对于毛泽东思想，更不能用“三七开”的定量方式来理解。,image schema,启，张，把关闭的东西打开,扩大,贯通，使通,分割,A,C,B,D,Incorrect,Incorrect,Incorrect
+Q2_开_cut_through_0168,Q2,混凝土梁上开洞必须严格遵循相关规范，从开洞位置、尺寸、补强到施工等各个环节都要谨慎对待。,image schema,启，张，把关闭的东西打开,贯通，使通,分割,扩大,A,A,A,B,Correct,Correct,Incorrect
+Q2_吃_eat_0388,Q2,?在日常交流中，你是否曾注意到那微妙的差异——“吃过”、“吃了”和“吃完”。,proto,感受,忍受，承受,把东西送进口中咽下,,C,A,B,C,Incorrect,Incorrect,Correct
+Q2_开_open_0155,Q2,免费Telegram社工库机器人、免费开盒社工库、海外社工库工具盘点。,proto,启，张，把关闭的东西打开,扩大,贯通，使通,分割,A,B,C,B,Incorrect,Incorrect,Incorrect
+Q2_拿_control_0045,Q2,做事十拿九稳，差一步是什么。,metaphorical,拿取实物,控制、掌控,攻下，占领,,A,C,A,D,Incorrect,Correct,Incorrect
+Q2_走_walk_0287,Q2,很多朋友走位比较固定思路，习惯性走上走下，但是很多时候多一次变向走上走下再走上可能会好很多。,proto,移动,行走,往来，社交,,B,A,A,A,Incorrect,Incorrect,Incorrect
+Q2_走_walk_0286,Q2,（2）向右转走：在行进中，预令从右脚开始，动令落在右脚。,proto,行走,往来，社交,移动,,A,C,B,B,Incorrect,Incorrect,Incorrect
+Q2_吃_bear_0419,Q2,是吃一堑，长一智；堑：壕沟，引申为教训、挫折。,metaphorical,感受,把东西送进口中咽下,忍受，承受,,B,C,C,C,Incorrect,Incorrect,Incorrect
+Q2_拿_control_0048,Q2,如：「男子汉要拿得起放得下，不要患得患失。,metaphorical,攻下，占领,控制、掌控,拿取实物,,C,B,B,D,Incorrect,Incorrect,Incorrect
+Q2_开_enlarge_0182,Q2,天开地辟真主出，犹须再驾方凯旋。,metaphorical,启，张，把关闭的东西打开,贯通，使通,扩大,分割,A,C,B,C,Incorrect,Incorrect,Incorrect
+Q2_拿_take_0039,Q2,手拿包搭配不仅要考虑服装搭配，同时还需要对手抓包的正确拿法进行一定的搭配。,proto,拿取实物,攻下，占领,控制、掌控,,A,C,C,C,Incorrect,Incorrect,Incorrect
+Q2_吃_eat_0399,Q2,今天分享10道孩子爱吃的家常菜青椒火腿炒蛋食材:青椒，火…。,proto,忍受，承受,把东西送进口中咽下,感受,,B,B,A,B,Correct,Incorrect,Correct
+Q2_走_walk_0292,Q2,Hewalkeduptothestagetoreceivehisaward.他走上舞台接受奖项。,proto,行走,往来，社交,移动,,A,A,A,B,Correct,Correct,Incorrect
+Q2_开_cut_through_0169,Q2,在楼板开洞时，应确保洞口的尺寸、位置以及周围结构的支撑和加固措施…。,image schema,启，张，把关闭的东西打开,贯通，使通,分割,扩大,A,C,C,C,Incorrect,Incorrect,Incorrect
+Q2_走_walk_0288,Q2,其实，换个视角思考，走路者和路存在着相互影响的关系。,proto,往来，社交,移动,行走,,C,D,D,A,Incorrect,Incorrect,Incorrect
+Q2_吃_bear_0427,Q2,吃过大亏的人，会出现哪些变化。,metaphorical,感受,忍受，承受,把东西送进口中咽下,,C,B,B,A,Incorrect,Incorrect,Incorrect
+Q2_走_walk_0294,Q2,f二、课文分析•“慢慢走，欣赏啊。,proto,往来，社交,移动,行走,,C,C,C,D,Correct,Correct,Incorrect
+Q2_走_move_0298,Q2,走位的教学介绍如下：1、练走位从最基础开始，十字形走位，最基础的走位，操作方法为，在直走的…。,image schema,移动,行走,往来，社交,,B,A,A,A,Incorrect,Incorrect,Incorrect
+Q2_走_social_contact_0319,Q2,以下是关于结婚第一年走亲戚的规矩和礼物的详细说明：一、结婚…。,metaphorical,行走,往来，社交,移动,,A,B,B,B,Incorrect,Incorrect,Incorrect
+Q2_开_cut_through_0166,Q2,据悉，截至目前，万开隧道已掘进突破5200米...。,image schema,贯通，使通,扩大,启，张，把关闭的东西打开,分割,C,A,A,C,Incorrect,Incorrect,Correct
+Q2_开_open_0145,Q2,本文介绍了电脑版多开助手的多开操作方法。,proto,分割,贯通，使通,启，张，把关闭的东西打开,扩大,C,C,A,C,Correct,Incorrect,Correct
+Q2_吃_eat_0393,Q2,同时，如果坚持半年时间只吃菜不吃米…。,proto,感受,忍受，承受,把东西送进口中咽下,,C,C,C,A,Correct,Correct,Incorrect
+Q2_走_walk_0290,Q2,走地鸡是在自然环境中散养的鸡类品种，主要生长于草地、树林或山坡等开阔空间。,proto,往来，社交,移动,行走,,C,C,B,D,Correct,Incorrect,Incorrect
+Q2_开_cut_through_0167,Q2,中国公路隧道列表是按照隧道名称，地点，长度，开通年份，孔数X车道及公路等数据所列的表格。,image schema,贯通，使通,启，张，把关闭的东西打开,扩大,分割,B,D,A,B,Incorrect,Incorrect,Correct
+Q2_开_seperate_0193,Q2,作品以自我对话形式展开，源于对成长过程中内心矛盾的审视。,image schema,分割,扩大,启，张，把关闭的东西打开,贯通，使通,C,A,A,A,Incorrect,Incorrect,Incorrect
+Q2_拿_occupy_0060,Q2,***年我就拿下了一些政府合同和财富500强客户。,image schema,攻下，占领,拿取实物,控制、掌控,,B,B,B,A,Correct,Correct,Incorrect
+Q2_开_seperate_0201,Q2,综上所述，“五五开”是一个与卢本伟紧密相关的网络梗，既指代他本人，也用来形容实力相当、胜负难料…。,image schema,启，张，把关闭的东西打开,贯通，使通,分割,扩大,A,C,A,D,Incorrect,Correct,Incorrect
+Q2_走_walk_0293,Q2,下面分别解析这句话的两部分：长长的路慢慢的走含义：人生之路漫长而充满未知，如…。,proto,往来，社交,行走,移动,,B,B,B,B,Correct,Correct,Correct
+Q2_开_enlarge_0175,Q2,该成语有两种意思，第一种意思是指开辟天地，艰苦创业，多形容创造…。,metaphorical,贯通，使通,启，张，把关闭的东西打开,扩大,分割,B,C,C,B,Incorrect,Incorrect,Correct
+Q2_拿_control_0054,Q2,2、人生本就是一场闹剧接着一场闹剧，人总得学会拿得起也放得下，才算活得明白。,metaphorical,攻下，占领,控制、掌控,拿取实物,,C,B,B,D,Incorrect,Incorrect,Incorrect
+Q2_吃_feel_0407,Q2,“大吃一惊”字的解释，成语解释，国语辞典，网络解释大吃一惊【解释】形容对发生的事感到十分意外。,metaphorical,忍受，承受,感受,把东西送进口中咽下,,C,C,B,A,Correct,Incorrect,Incorrect
+Q2_走_move_0302,Q2,本篇主要论述了五味对五脏的所入，总结出了其规律是“五味各走其所喜”，并叙述了五谷、五畜、五…。,image schema,行走,往来，社交,移动,,A,A,A,B,Correct,Correct,Incorrect
+Q2_吃_feel_0404,Q2,吃就是吃透图纸，拿就是拿出依据，卡就是卡住规范，要就是要有效果。,metaphorical,忍受，承受,感受,把东西送进口中咽下,,C,B,B,B,Incorrect,Incorrect,Incorrect
+Q2_拿_control_0049,Q2,如：「凡事都要拿得起放得下，患得患失的哪能成事。,metaphorical,拿取实物,攻下，占领,控制、掌控,,A,A,A,A,Correct,Correct,Correct
+Q2_吃_feel_0403,Q2,广大党员干部要坚持对标对表，学深悟透党的创新理论，在吃准吃透中央经济工作…。,metaphorical,感受,把东西送进口中咽下,忍受，承受,,B,C,A,B,Incorrect,Incorrect,Correct
+Q2_开_cut_through_0173,Q2,仙娘:（唱)天仙洞、地仙洞齐开了。,image schema,扩大,启，张，把关闭的东西打开,贯通，使通,分割,B,C,C,A,Incorrect,Incorrect,Incorrect
+Q2_拿_take_0035,Q2,10.可别乱拿呀，难道你想成为那个让人讨厌的“乱拿大王”吗。,proto,控制、掌控,拿取实物,攻下，占领,,B,B,B,B,Correct,Correct,Correct
+Q2_走_social_contact_0310,Q2,",雪琴,走亲戚,老祖宗,太势利,回家过年文/飞鱼过年走亲戚，都是很常见的事情，也是传统。",metaphorical,行走,移动,往来，社交,,A,A,A,A,Correct,Correct,Correct
+Q2_走_move_0297,Q2,例:咖啡放久走味後，就會覺得苦澀難以入口。,image schema,行走,移动,往来，社交,,A,C,D,B,Incorrect,Incorrect,Incorrect
+Q2_吃_feel_0402,Q2,共6*产6*党的政策变不变，那个吃得准。,metaphorical,感受,把东西送进口中咽下,忍受，承受,,B,C,A,D,Incorrect,Incorrect,Incorrect
+Q2_开_enlarge_0185,Q2,开埠后天津成为列强商品倾销、原料掠夺和资本输出的北方贸易中心城市，咸丰十…。,metaphorical,启，张，把关闭的东西打开,扩大,分割,贯通，使通,A,A,C,B,Correct,Incorrect,Incorrect
+Q2_开_open_0156,Q2,平开窗一般型材截面较小，但其主受力杆件往往是…。,proto,启，张，把关闭的东西打开,扩大,分割,贯通，使通,A,B,B,A,Incorrect,Incorrect,Correct
+Q2_开_seperate_0195,Q2,半年后，即8月21日，邓小平在接受意大利记者法拉奇的采访时，又将这个“四六开”改了，说：“我自己…。,image schema,扩大,启，张，把关闭的东西打开,分割,贯通，使通,B,B,B,D,Correct,Correct,Incorrect
+Q2_拿_occupy_0065,Q2,程维称：“滴滴对橙心优选的投入不设上限，全力拿下市场第一名。,image schema,拿取实物,控制、掌控,攻下，占领,,A,B,B,D,Incorrect,Incorrect,Incorrect
+Q2_吃_bear_0425,Q2,",挫折感,吃亏是福,心理创伤“人早点吃亏比晚吃亏好”这句话，从某些角度来看，是有一定道理的。",metaphorical,感受,忍受，承受,把东西送进口中咽下,,C,B,B,C,Incorrect,Incorrect,Correct
+Q2_拿_occupy_0072,Q2,拿下合同的祝福语-现在，合同拿下了，这是对你努力的最好回报。,image schema,拿取实物,控制、掌控,攻下，占领,,A,B,A,D,Incorrect,Correct,Incorrect
+Q2_开_cut_through_0165,Q2,3月7日，淮北市开渠中学举行第十三届“三八红旗手”颁奖仪式。,image schema,启，张，把关闭的东西打开,扩大,分割,贯通，使通,A,C,C,D,Incorrect,Incorrect,Incorrect
+Q2_开_seperate_0204,Q2,超蓝悟空的龟波克林根本无法阻挡二者为何称为五五开谢邀。,image schema,贯通，使通,分割,启，张，把关闭的东西打开,扩大,C,C,C,A,Correct,Correct,Incorrect
+Q2_吃_eat_0394,Q2,虽然绝大多数的剩菜都能放心吃，但如果有剩菜吃不完，一定要及时放冰箱保存。,proto,感受,把东西送进口中咽下,忍受，承受,,B,C,A,B,Incorrect,Incorrect,Correct
+Q2_开_enlarge_0178,Q2,古代神话盘古氏开辟天地，创立世界。,metaphorical,贯通，使通,启，张，把关闭的东西打开,扩大,分割,B,B,B,A,Correct,Correct,Incorrect
+Q2_开_enlarge_0176,Q2,"近义词包括""开天辟地""""天地开辟""等中性成语。",metaphorical,贯通，使通,分割,扩大,启，张，把关闭的东西打开,D,B,B,A,Incorrect,Incorrect,Incorrect
+Q2_拿_control_0059,Q2,事实上，放不下往往是自己跟自己较真2、怎样做到真正意义上的“拿得起，放得…。,metaphorical,拿取实物,控制、掌控,攻下，占领,,A,C,C,B,Incorrect,Incorrect,Incorrect
+Q2_走_social_contact_0311,Q2,但至于为什么要去走亲戚，以及走亲戚有哪些寓意，可能大家就不是特别了解了。,metaphorical,往来，社交,移动,行走,,C,B,B,B,Incorrect,Incorrect,Incorrect
+Q2_开_cut_through_0160,Q2,它的类型较多，通开锁和单开锁是常见的两种，那么通开锁和单开锁的...。,image schema,分割,贯通，使通,扩大,启，张，把关闭的东西打开,D,A,C,D,Incorrect,Incorrect,Correct
+Q2_开_open_0151,Q2,为什么电脑断电后会无法开机。,proto,贯通，使通,分割,启，张，把关闭的东西打开,扩大,C,A,A,C,Incorrect,Incorrect,Correct
+Q2_吃_feel_0400,Q2,库里+巴特勒轰48分，替补全民皆兵，三首发却吃瘪。,metaphorical,把东西送进口中咽下,忍受，承受,感受,,A,A,A,A,Correct,Correct,Correct
+Q2_拿_occupy_0068,Q2,本文将分享9个有效的外贸好习惯，帮助你在外贸市场中脱颖而出，成功拿下…。,image schema,攻下，占领,拿取实物,控制、掌控,,B,C,C,C,Incorrect,Incorrect,Incorrect
+Q2_拿_occupy_0061,Q2,12步跟进模板拿下客户时间:2018-05-0214:49:32来源:进出口经理人网友评论0条。,image schema,控制、掌控,拿取实物,攻下，占领,,B,C,C,C,Incorrect,Incorrect,Incorrect
+Q2_吃_feel_0408,Q2,例句有七岁的孩子就写出这样好的诗，真令人吃惊[1]。,metaphorical,忍受，承受,感受,把东西送进口中咽下,,C,B,B,C,Incorrect,Incorrect,Correct
+Q2_拿_take_0042,Q2,男生帮女生拿包意味着什么。,proto,拿取实物,控制、掌控,攻下，占领,,A,B,B,C,Incorrect,Incorrect,Incorrect
+Q2_走_walk_0284,Q2,我走在我自己的人生路上，哪怕路途的风雨再大，大到我步履维艰。,proto,行走,移动,往来，社交,,A,D,A,D,Incorrect,Correct,Incorrect
+Q2_拿_occupy_0071,Q2,本文将分享9个有效的外贸好习惯，帮助你在外贸市场中脱颖而出，成功拿下订单。,image schema,拿取实物,控制、掌控,攻下，占领,,A,C,A,A,Incorrect,Correct,Correct
+Q2_走_move_0307,Q2,视神经走行的特点：1.由于视盘位于鼻侧视网膜，故各部位的神经纤维进入视盘的走行是不对称的。,image schema,移动,行走,往来，社交,,B,B,B,B,Correct,Correct,Correct
+Q2_开_seperate_0200,Q2,终于，有网友幸运地晒出了偶遇五五开的照片，引发了网络上新…。,image schema,启，张，把关闭的东西打开,贯通，使通,分割,扩大,A,D,A,B,Incorrect,Correct,Incorrect
+Q2_拿_control_0056,Q2,拿得起是生存，放得下是生活；拿得起是能力，放得下是智慧。,metaphorical,攻下，占领,拿取实物,控制、掌控,,B,D,A,B,Incorrect,Incorrect,Correct
+Q2_走_move_0303,Q2,传统A键走A不用担心误触走到敌方脸上，同时可以看到自身攻击范围，方便拉扯。,image schema,往来，社交,移动,行走,,C,B,B,D,Incorrect,Incorrect,Incorrect
+Q2_吃_bear_0421,Q2,”这话听起来颇有些自我安慰的味道，仿佛在说：“哎，我又吃亏了，但没关系，我是在积福呢。,metaphorical,忍受，承受,感受,把东西送进口中咽下,,C,A,A,B,Incorrect,Incorrect,Incorrect
+Q2_开_seperate_0198,Q2,“三七开”、“四六开”、“五五开”等，表示网络学习加分和期末成绩之间不同的比例，…。,image schema,扩大,启，张，把关闭的东西打开,分割,贯通，使通,B,B,B,B,Correct,Correct,Correct
+Q2_拿_take_0032,Q2,按~键，也就是数字1旁边的那个键，调出控制台，输入cm拿东西，输入dm开启上帝模式。,proto,拿取实物,控制、掌控,攻下，占领,,A,C,C,D,Incorrect,Incorrect,Incorrect
+Q2_开_open_0146,Q2,电脑程序多开方法指南在日常生活和工作中，有时我们需要在同一台电脑上同时运行多个相同的程序实例。,proto,启，张，把关闭的东西打开,扩大,分割,贯通，使通,A,B,B,D,Incorrect,Incorrect,Incorrect
+Q2_走_social_contact_0312,Q2,3、大年初三之后才开始走其他的一些亲戚初三以后，大家普遍开始走亲戚，所以这时候去走亲戚一定要注…。,metaphorical,移动,往来，社交,行走,,C,A,A,B,Incorrect,Incorrect,Incorrect
+Q2_开_seperate_0190,Q2,割开焊缝是一个需要精确操作和技术的过程。,image schema,分割,扩大,启，张，把关闭的东西打开,贯通，使通,C,A,A,D,Incorrect,Incorrect,Incorrect
+Q2_走_social_contact_0320,Q2,走亲戚是中国传统春节民俗，指农历新年期间亲属间礼节性拜访活动，具有维系亲情的社会功能。,metaphorical,往来，社交,行走,移动,,B,B,B,A,Correct,Correct,Incorrect
+Q2_拿_occupy_0066,Q2,1250万台，2025年二季度华为手机拿下了中国市场18.1%的市场份额，销量第一。,image schema,攻下，占领,拿取实物,控制、掌控,,B,A,A,D,Incorrect,Incorrect,Incorrect
+Q2_吃_bear_0420,Q2,本为石匠师傅打石磨时，石胚吃一钎，石胚即长一齿之意。,metaphorical,忍受，承受,把东西送进口中咽下,感受,,B,A,A,D,Incorrect,Incorrect,Incorrect
+Q2_拿_control_0052,Q2,在我们的生命中，有许多值得我们“拿起来”的，比如：尊严，爱情，勇敢。,metaphorical,攻下，占领,控制、掌控,拿取实物,,C,B,C,C,Incorrect,Correct,Correct
+Q2_走_move_0301,Q2,肝主筋，木曰曲直作酸，酸走肝，筋病患无多食酸。,image schema,往来，社交,移动,行走,,C,B,A,D,Incorrect,Incorrect,Incorrect
+Q2_走_social_contact_0322,Q2,"不出正月都是年,平日里走动少的老亲戚、老相识都可借过年之…。",metaphorical,往来，社交,行走,移动,,B,A,A,D,Incorrect,Incorrect,Incorrect
+Q2_拿_occupy_0063,Q2,品牌销量榜显示，中国汽车已完全拿下俄罗斯汽车市场，销量榜...。,image schema,拿取实物,控制、掌控,攻下，占领,,A,C,A,D,Incorrect,Correct,Incorrect
+Q2_拿_take_0041,Q2,探索Versace迷你包和手拿包系列，采用最上等皮革制成，搭配金属链肩带和经典装饰。,proto,控制、掌控,攻下，占领,拿取实物,,C,B,B,C,Incorrect,Incorrect,Correct
+Q2_走_move_0299,Q2,走位是战斗的关键，学会蛇皮走位，掌握心理战技巧，学会地形杀，了解技…。,image schema,移动,行走,往来，社交,,B,A,A,D,Incorrect,Incorrect,Incorrect
+Q2_吃_eat_0389,Q2,吃饭的节奏过快和过慢都是不好的，吃饭的节奏通常是一口饭嚼20次。,proto,感受,把东西送进口中咽下,忍受，承受,,B,C,C,D,Incorrect,Incorrect,Incorrect
+Q2_拿_take_0036,Q2,院里不让锁门，偷不算偷，叫拿，所以在我们院，…。,proto,拿取实物,攻下，占领,控制、掌控,,A,A,A,B,Correct,Correct,Incorrect
+Q2_拿_control_0057,Q2,放得下，即是解脱；拿得起，即是慈悲。,metaphorical,控制、掌控,攻下，占领,拿取实物,,C,A,A,A,Incorrect,Incorrect,Incorrect
+Q2_吃_eat_0396,Q2,63个“控糖食谱”免费送，天天吃不重样审稿：杨力南方医科大学珠江…。,proto,忍受，承受,把东西送进口中咽下,感受,,B,B,B,C,Correct,Correct,Incorrect
+Q2_拿_take_0034,Q2,拿相机手握东西茶拿铁拿数据拿武器人物美女拿模特拿包老人吃东…。,proto,拿取实物,控制、掌控,攻下，占领,,A,A,A,B,Correct,Correct,Incorrect
+Q2_拿_occupy_0062,Q2,如何使用报价技巧快速拿下客户。,image schema,攻下，占领,拿取实物,控制、掌控,,B,A,A,A,Incorrect,Incorrect,Incorrect
+Q2_走_social_contact_0318,Q2,内行：以前走的是亲情，现在完全不一样了。,metaphorical,行走,移动,往来，社交,,A,A,A,C,Correct,Correct,Incorrect
+Q2_走_social_contact_0315,Q2,走亲戚，是中华民族的传统民俗，也是中国人联络情感…。,metaphorical,移动,往来，社交,行走,,C,A,A,B,Incorrect,Incorrect,Incorrect
+Q2_开_seperate_0197,Q2,2、杨幂的妆容重点在于眼妆，三七开的发型，给人一种洒脱淡定的感觉。,image schema,扩大,启，张，把关闭的东西打开,分割,贯通，使通,B,C,B,A,Incorrect,Correct,Incorrect
+Q2_走_social_contact_0314,Q2,走亲戚曾经是农村一项重要的民俗活动，但现在却逐渐被人们忽视。,metaphorical,往来，社交,移动,行走,,C,B,B,C,Incorrect,Incorrect,Correct
+Q2_拿_take_0040,Q2,然而，市面上的手拿包种类繁…。,proto,拿取实物,攻下，占领,控制、掌控,,A,A,A,D,Correct,Correct,Incorrect
+Q2_开_cut_through_0162,Q2,老黄历中“开渠”是什么意思。,image schema,贯通，使通,扩大,分割,启，张，把关闭的东西打开,D,B,B,A,Incorrect,Incorrect,Incorrect
+Q2_吃_bear_0416,Q2,吃⼀堑，长⼀智造句⽰例：1、他离婚是吃⼀堑长⼀智。,metaphorical,感受,忍受，承受,把东西送进口中咽下,,C,C,C,B,Correct,Correct,Incorrect
+Q2_走_social_contact_0316,Q2,"一个“走”字,描画出“走亲戚”的旧有意味；一个“回”字,把不同时代闺女与娘家的新型关系点到妙处。",metaphorical,移动,往来，社交,行走,,C,A,A,B,Incorrect,Incorrect,Incorrect
+Q2_拿_take_0030,Q2,人拿东西搜索结果...从冰箱里拿东西的阿西亚人-00:071080P企。,proto,攻下，占领,控制、掌控,拿取实物,,C,B,B,D,Incorrect,Incorrect,Incorrect
+Q2_吃_feel_0409,Q2,主持人：你被他的重拳打中了吧，在第二个回合你看起来好像挨了重重一拳，你对此感到吃惊吗。,metaphorical,把东西送进口中咽下,忍受，承受,感受,,A,C,A,C,Incorrect,Correct,Incorrect
+Q2_走_social_contact_0323,Q2,在不同的地区，走亲戚有着各自独…。,metaphorical,往来，社交,移动,行走,,C,C,A,D,Correct,Incorrect,Incorrect
+Q2_开_cut_through_0170,Q2,在墙体开洞时，必须确保洞的尺寸符合设计要求，同时位置要合理。,image schema,启，张，把关闭的东西打开,贯通，使通,扩大,分割,A,B,B,B,Incorrect,Incorrect,Incorrect
+Q2_走_walk_0289,Q2,但是，怎样才能正确地进行快走。,proto,行走,移动,往来，社交,,A,A,A,D,Correct,Correct,Incorrect
+Q2_开_cut_through_0164,Q2,根据区域划分，玉泉路石槽桥以上称人民渠，石槽桥至莲花池暗涵出口称新开渠，莲花池暗涵出…。,image schema,分割,贯通，使通,扩大,启，张，把关闭的东西打开,D,A,A,B,Incorrect,Incorrect,Incorrect
+Q2_拿_occupy_0074,Q2,最终，中国队1比0拿下比赛，以小组倒…。,image schema,控制、掌控,攻下，占领,拿取实物,,C,C,C,D,Correct,Correct,Incorrect
+Q2_走_move_0300,Q2,当田字中心有别的棋子时，俗称“塞（相）象眼”，则不许走过去。,image schema,往来，社交,移动,行走,,C,B,B,C,Incorrect,Incorrect,Correct
+Q2_拿_control_0058,Q2,既能拿得起，又能放得下，你的人生才会更加的精彩。,metaphorical,拿取实物,攻下，占领,控制、掌控,,A,C,C,D,Incorrect,Incorrect,Incorrect
+Q2_拿_occupy_0070,Q2,本文将深入探讨如何轻松拿下订单，掌握成交之道。,image schema,攻下，占领,拿取实物,控制、掌控,,B,A,A,C,Incorrect,Incorrect,Incorrect
+Q2_吃_bear_0417,Q2,堵车迟到，花钱无计划，出门忘带东西，种种犯错，给生活带来有句谚语：“吃一堑长一…。,metaphorical,忍受，承受,把东西送进口中咽下,感受,,B,A,A,A,Incorrect,Incorrect,Incorrect
+Q2_吃_eat_0385,Q2,泛指人每天定时分次吃的食物：早～。,proto,忍受，承受,感受,把东西送进口中咽下,,C,A,A,D,Incorrect,Incorrect,Incorrect
+Q2_吃_bear_0428,Q2,很多人一旦吃亏了，总是喜欢在别人身上找原因，却很少在自己身上找原因，很少自我反省。,metaphorical,忍受，承受,感受,把东西送进口中咽下,,C,B,B,B,Incorrect,Incorrect,Incorrect
+Q2_拿_control_0055,Q2,拿得起，就要抗得住，放得下就需看得开，这，既是能力，也是智慧，谁不愿，谁不想。,metaphorical,控制、掌控,攻下，占领,拿取实物,,C,B,B,A,Incorrect,Incorrect,Incorrect
+Q2_拿_control_0053,Q2,拿得起放得下其实是一种心态。,metaphorical,控制、掌控,攻下，占领,拿取实物,,C,C,C,B,Correct,Correct,Incorrect
+Q2_走_social_contact_0321,Q2,无论是习俗的变化还是礼物的演进，走亲戚的文化内涵依然深植于每一个中国人的心中，寄托着对家人和亲友…。,metaphorical,移动,往来，社交,行走,,C,C,B,B,Correct,Incorrect,Incorrect
+Q2_走_social_contact_0317,Q2,",过年,拜年,酒席,年货,走亲戚今年春节走亲戚的人要少一半。",metaphorical,往来，社交,移动,行走,,C,A,A,B,Incorrect,Incorrect,Incorrect
+Q2_开_enlarge_0181,Q2,注释1、开辟鸿蒙，开天辟地以来。,metaphorical,分割,扩大,启，张，把关闭的东西打开,贯通，使通,C,B,B,B,Incorrect,Incorrect,Incorrect
+Q2_走_walk_0283,Q2,对某种事物迷恋到失去理智的地步掩鼻而过：捂着鼻子走过去。,proto,行走,移动,往来，社交,,A,A,A,D,Correct,Correct,Incorrect
+Q2_开_enlarge_0179,Q2,它强调通过努力和创造力去拓展新的领域，突破传统的限制，开创…。,metaphorical,贯通，使通,启，张，把关闭的东西打开,扩大,分割,B,B,B,D,Correct,Correct,Incorrect
+Q2_开_enlarge_0184,Q2,天开于子，地辟于丑，人生于寅的最早出处，以及是什么意思。,metaphorical,分割,扩大,贯通，使通,启，张，把关闭的东西打开,D,B,A,D,Incorrect,Incorrect,Correct
+Q2_拿_occupy_0069,Q2,如何通过巧妙沟通快速拿下外贸订单。,image schema,攻下，占领,拿取实物,控制、掌控,,B,B,B,C,Correct,Correct,Incorrect
+Q2_开_cut_through_0161,Q2,开渠有人工开通河道或水沟的意思，或者是开放渠道5评论分享。,image schema,贯通，使通,启，张，把关闭的东西打开,扩大,分割,B,C,C,B,Incorrect,Incorrect,Correct
+Q2_走_move_0295,Q2,如：「咖啡放久走味后，就会觉得不好喝了。,image schema,移动,行走,往来，社交,,B,B,A,B,Correct,Incorrect,Correct
+Q2_开_enlarge_0186,Q2,在历史上，“开疆裂土”常用于…。,metaphorical,分割,贯通，使通,扩大,启，张，把关闭的东西打开,D,A,A,C,Incorrect,Incorrect,Incorrect
+Q2_开_enlarge_0177,Q2,开辟强调从无到有地打通、创建。,metaphorical,贯通，使通,启，张，把关闭的东西打开,扩大,分割,B,C,C,A,Incorrect,Incorrect,Incorrect
+Q2_吃_bear_0424,Q2,占小便宜吃大亏的俗语谚语哲理句子-20.小便宜就像糖衣炮弹，占了就会被大亏击中。,metaphorical,感受,忍受，承受,把东西送进口中咽下,,C,A,A,D,Incorrect,Incorrect,Incorrect
+Q2_吃_eat_0398,Q2,夏季吃瓜，比如冬瓜、南瓜、黄瓜、丝瓜、佛手瓜等，这些瓜类在…。,proto,忍受，承受,感受,把东西送进口中咽下,,C,A,A,A,Incorrect,Incorrect,Incorrect
+Q2_开_open_0147,Q2,关于电脑开不了机怎么办，这些方法简单易行，可快…。,proto,贯通，使通,扩大,启，张，把关闭的东西打开,分割,C,A,A,A,Incorrect,Incorrect,Incorrect
+Q2_开_seperate_0194,Q2,本文详细介绍了PCB开槽处理的目的，以及三种常用的方法：通过机械层绘制并转换为切割槽、利用焊盘进行…。,image schema,分割,贯通，使通,启，张，把关闭的东西打开,扩大,C,B,B,D,Incorrect,Incorrect,Incorrect
+Q2_吃_feel_0412,Q2,指受到意外的恩遇而顿觉吃惊不安。,metaphorical,把东西送进口中咽下,忍受，承受,感受,,A,A,A,A,Correct,Correct,Correct
+Q2_拿_occupy_0073,Q2,厂家业务员拿下合同之后为什么不直接签单，而是交由代理商跟客户签合同。,image schema,攻下，占领,拿取实物,控制、掌控,,B,C,A,C,Incorrect,Incorrect,Incorrect
+Q2_吃_eat_0391,Q2,（2）先吃的蔬菜，应该是少油少盐烹调的蔬菜。,proto,把东西送进口中咽下,感受,忍受，承受,,A,B,A,D,Incorrect,Correct,Incorrect
+Q2_拿_take_0033,Q2,若要拿一组物品，可按“Shift+左…。,proto,控制、掌控,拿取实物,攻下，占领,,B,C,C,B,Incorrect,Incorrect,Correct
+Q2_走_walk_0280,Q2,2、人生没有不可逾越的天堑，只要一步步走过去，前方就是幸福的彼岸。,proto,移动,行走,往来，社交,,B,C,D,D,Incorrect,Incorrect,Incorrect
+Q2_开_open_0153,Q2,那么“打开电脑”用英语怎么说。,proto,扩大,启，张，把关闭的东西打开,分割,贯通，使通,B,C,A,C,Incorrect,Incorrect,Incorrect
+Q2_走_move_0308,Q2,",铁路,车站,动车组,动车,走行线大家都经常乘坐火车出行，也许对铁路线有所了解。",image schema,行走,移动,往来，社交,,A,A,A,A,Correct,Correct,Correct
+Q2_吃_feel_0410,Q2,他们许多人像其他美国人一样，对一夫多妻教派中的乱伦现象和孩子被虐待感到吃惊。,metaphorical,把东西送进口中咽下,忍受，承受,感受,,A,C,B,D,Incorrect,Incorrect,Incorrect
+Q2_吃_eat_0387,Q2,吃饭是人摄入负熵维持耗散体系的主要方式。,proto,忍受，承受,感受,把东西送进口中咽下,,C,C,A,D,Correct,Incorrect,Incorrect
+Q2_吃_bear_0415,Q2,吃一堑：意思是受一次栽倒沟里的教训。,metaphorical,把东西送进口中咽下,忍受，承受,感受,,A,A,A,A,Correct,Correct,Correct
+Q2_开_open_0149,Q2,以上就是台式电脑主机开不了机的原因及解决方法，希望对大家有所帮助。,proto,贯通，使通,启，张，把关闭的东西打开,分割,扩大,B,C,B,D,Incorrect,Correct,Incorrect
+Q2_开_enlarge_0180,Q2,"鸿蒙，汉语词语，亦作""鸿濛""，中国古代哲学与神话概念，意为天地开辟前混沌状态的原始元气。",metaphorical,分割,启，张，把关闭的东西打开,扩大,贯通，使通,B,C,C,B,Incorrect,Incorrect,Correct
+Q2_拿_occupy_0064,Q2,其中，华为手机成功拿下市场第一，小米则位列第二。,image schema,攻下，占领,拿取实物,控制、掌控,,B,C,C,A,Incorrect,Incorrect,Incorrect
+Q2_拿_take_0037,Q2,老师和家长必须要严于律已，不贪占小便宜，不随便拿别人的东西，给孩子做个好榜样。,proto,攻下，占领,拿取实物,控制、掌控,,B,A,A,B,Incorrect,Incorrect,Correct
+Q2_走_walk_0285,Q2,【例文展示】修远路漫漫，求索在脚下鲁迅先生说：“世界上本没有路，走的人多了，…。,proto,移动,行走,往来，社交,,B,B,B,D,Correct,Correct,Incorrect
+Q2_开_seperate_0191,Q2,许多人都有一个误解，感觉气管被割开，人就“断气”了。,image schema,扩大,分割,贯通，使通,启，张，把关闭的东西打开,D,A,A,C,Incorrect,Incorrect,Incorrect
+Q2_开_enlarge_0183,Q2,早在190年.江I’〕北街就建有码头设立海关开辟对外通商口岸。,metaphorical,贯通，使通,分割,扩大,启，张，把关闭的东西打开,D,B,B,A,Incorrect,Incorrect,Incorrect
+Q2_吃_feel_0406,Q2,形容人惊讶的句子他猛然站起来，吃惊地瞪大眼睛，张口结舌说不出话来。,metaphorical,感受,把东西送进口中咽下,忍受，承受,,B,B,A,B,Correct,Incorrect,Correct
+Q2_吃_feel_0411,Q2,2、德拉克鲁瓦：庸人没有回答不了的问题，也没有吃惊的时刻。,metaphorical,忍受，承受,把东西送进口中咽下,感受,,B,B,B,B,Correct,Correct,Correct
+Q2_开_enlarge_0189,Q2,帮助开发者快速创建小程序、小游戏和公众号网页等应用。,metaphorical,分割,贯通，使通,扩大,启，张，把关闭的东西打开,D,B,B,A,Incorrect,Incorrect,Incorrect
+Q2_拿_take_0038,Q2,而且有时候有些故事还是想看看的但一拿起来就已读了放包里后来...。,proto,控制、掌控,攻下，占领,拿取实物,,C,C,B,A,Correct,Incorrect,Incorrect
+Q2_拿_take_0043,Q2,手拿包和其他包款有着不同的设计感…。,proto,控制、掌控,拿取实物,攻下，占领,,B,C,C,C,Incorrect,Incorrect,Incorrect
+Q2_开_open_0159,Q2,但有一点不好的就，是冰箱用久了难免会产生异味，打开冰箱后，扑面而来…。,proto,分割,扩大,启，张，把关闭的东西打开,贯通，使通,C,B,B,B,Incorrect,Incorrect,Incorrect
+Q2_吃_feel_0401,Q2,然而无敌的佐菲可以说是无瘪不吃，像希波利特星人，…。,metaphorical,把东西送进口中咽下,忍受，承受,感受,,A,B,B,C,Incorrect,Incorrect,Incorrect
+Q2_走_move_0306,Q2,走形，拼音zǒuxíng，漢語詞語，失去原有的形狀，變形。,image schema,往来，社交,移动,行走,,C,B,A,C,Incorrect,Incorrect,Correct
+Q2_拿_control_0047,Q2,"对于叔叔回国这桩十拿九稳的事,大家还拟定了上千种计划,甚至计划到要用这位叔叔的钱置一所别墅。",metaphorical,攻下，占领,拿取实物,控制、掌控,,B,A,A,A,Incorrect,Incorrect,Incorrect
+Q2_开_cut_through_0172,Q2,建筑墙壁上开洞的方法-2.开洞过程中，要注意力度和速度，避免过快过猛，以免导致墙面破损。,image schema,分割,贯通，使通,扩大,启，张，把关闭的东西打开,D,B,B,C,Incorrect,Incorrect,Incorrect
+Q2_吃_feel_0405,Q2,在这种吃力的接待气氛中感到很不舒服。,metaphorical,忍受，承受,把东西送进口中咽下,感受,,B,B,B,B,Correct,Correct,Correct
+Q2_走_move_0309,Q2,走样是一个词语，读音是zǒuyàng，意思是变样，失去原有的样子。,image schema,往来，社交,行走,移动,,B,C,B,B,Incorrect,Correct,Correct
+Q2_吃_eat_0397,Q2,既然主食吃太多或太少，都会影响健康，那要吃多少才好。,proto,忍受，承受,感受,把东西送进口中咽下,,C,A,A,C,Incorrect,Incorrect,Correct
+Q2_吃_feel_0413,Q2,例句：Iwassurprisedatyourtone.我对你的腔调吃惊不小。,metaphorical,把东西送进口中咽下,感受,忍受，承受,,A,A,A,A,Correct,Correct,Correct
+Q2_开_cut_through_0163,Q2,尺寸：136cm×28cm×2释文：未旱开渠，大事小做亦成功；临渴掘井，小事大做亦无益。,image schema,启，张，把关闭的东西打开,贯通，使通,扩大,分割,A,A,B,B,Correct,Incorrect,Incorrect
+Q2_开_open_0154,Q2,电脑设置打不开，可能是问题也可能是Bug，13种方法总有对症...。,proto,贯通，使通,分割,启，张，把关闭的东西打开,扩大,C,D,D,D,Incorrect,Incorrect,Incorrect
+Q2_走_walk_0282,Q2,「世界是一座桥，走过去，不要在上面盖房子」的英文原文是什么。,proto,行走,移动,往来，社交,,A,C,C,A,Incorrect,Incorrect,Correct
+Q2_开_open_0150,Q2,要在打开盖子时自动唤醒或开启笔记本电脑，请启用BIOS中的“打开盖子时开机”功能。,proto,分割,扩大,启，张，把关闭的东西打开,贯通，使通,C,B,B,C,Incorrect,Incorrect,Correct
+Q2_吃_bear_0426,Q2,吃小亏占大便宜，常用汉语成语，读音是（chīxiǎokuīzhàndàbiànyí）。,metaphorical,感受,把东西送进口中咽下,忍受，承受,,B,C,C,D,Incorrect,Incorrect,Incorrect
+Q2_开_open_0158,Q2,双开冰箱通常都是比较大的，容量在400L以上的…。,proto,贯通，使通,分割,启，张，把关闭的东西打开,扩大,C,B,B,B,Incorrect,Incorrect,Incorrect
+Q2_开_open_0148,Q2,这一步经常有人弄错，开电脑首先应该先开显示器。,proto,贯通，使通,启，张，把关闭的东西打开,扩大,分割,B,B,B,D,Correct,Correct,Incorrect
+Q2_开_enlarge_0188,Q2,华为开发者学堂-面向开发者学习、认证和职业发展的人才生态平台。,metaphorical,分割,贯通，使通,扩大,启，张，把关闭的东西打开,D,C,B,A,Incorrect,Incorrect,Incorrect
+Q2_拿_control_0051,Q2,拿得起：想做什么事情，就敢于去做。,metaphorical,攻下，占领,控制、掌控,拿取实物,,C,B,B,D,Incorrect,Incorrect,Incorrect
+Q2_开_open_0157,Q2,销售产品包括智能排烟窗系统、智能通风系统、电动开窗器系列、手动开窗器系列、门窗通风器系列。,proto,启，张，把关闭的东西打开,扩大,贯通，使通,分割,A,A,A,C,Correct,Correct,Incorrect
+Q2_吃_eat_0395,Q2,“吃碳水会胖，吃米饭升血糖。,proto,忍受，承受,感受,把东西送进口中咽下,,C,C,B,B,Correct,Incorrect,Incorrect
+Q2_吃_bear_0422,Q2,“好汉不吃眼前亏”是汉语常用成语，意指明智之人善于审时度势，暂时避开不利处境以避免受损受辱。,metaphorical,忍受，承受,感受,把东西送进口中咽下,,C,C,C,B,Correct,Correct,Incorrect
+Q2_走_move_0304,Q2,走位讲究的是身法无痕，步步为营，它能够让你绕开敌人的封锁，直捣黄龙。,image schema,行走,往来，社交,移动,,A,C,B,C,Incorrect,Incorrect,Incorrect
+Q2_拿_occupy_0067,Q2,加速融入欧洲市场，宁水集团4月8日成功拿下国内首张水表MID认证证书。,image schema,拿取实物,控制、掌控,攻下，占领,,A,B,B,D,Incorrect,Incorrect,Incorrect
+Q2_吃_eat_0392,Q2,每天不吃主食只吃菜的人最后怎样了。,proto,把东西送进口中咽下,感受,忍受，承受,,A,C,C,A,Incorrect,Incorrect,Correct
+Q2_吃_bear_0418,Q2,余生平吃数大堑，而癸丑六月不与焉。,metaphorical,把东西送进口中咽下,忍受，承受,感受,,A,B,A,B,Incorrect,Correct,Incorrect
+Q2_拿_take_0031,Q2,1、物品性质：若物品为他人所有且未明确表示放弃，未经允许拿走可能违法。,proto,拿取实物,攻下，占领,控制、掌控,,A,C,C,A,Incorrect,Incorrect,Correct
+Q2_开_open_0152,Q2,电脑黑屏却开着机这是什么原因造成的，我们有什…。,proto,启，张，把关闭的东西打开,分割,贯通，使通,扩大,A,C,C,C,Incorrect,Incorrect,Incorrect
+Q2_走_social_contact_0324,Q2,而如今，“过年走亲戚”的习俗似乎正在逐渐被年轻一代...。,metaphorical,行走,往来，社交,移动,,A,C,C,D,Incorrect,Incorrect,Incorrect
+Q2_走_move_0305,Q2,练习走位的基础要点，走位总是走不开，骗不到。,image schema,行走,往来，社交,移动,,A,B,B,B,Incorrect,Incorrect,Incorrect
+Q2_吃_eat_0386,Q2,要想让“改变进餐顺序”变得有意义，也要吃够量才行。,proto,把东西送进口中咽下,忍受，承受,感受,,A,C,D,D,Incorrect,Incorrect,Incorrect
+Q2_开_seperate_0203,Q2,"2025五五开黑节详细全攻略（4.23-5.8）,蔷薇,王者荣耀,王者福利拉满福利拉满。",image schema,分割,贯通，使通,启，张，把关闭的东西打开,扩大,C,B,B,B,Incorrect,Incorrect,Incorrect
+Q2_开_seperate_0199,Q2,三七开身材的人上半身容易积累脂肪，下半身比较瘦弱，身材…。,image schema,扩大,分割,启，张，把关闭的东西打开,贯通，使通,C,A,A,B,Incorrect,Incorrect,Incorrect
+Q2_走_walk_0291,Q2,"""风走""是现代汉语中的动词词组，读音为fēngzǒu，其核心释义为""如风似地疾趋；快走""。",proto,移动,往来，社交,行走,,C,C,C,B,Correct,Correct,Incorrect
+Q2_开_enlarge_0187,Q2,地图开疆的好处有两点：一方面满足了自己…。,metaphorical,扩大,分割,启，张，把关闭的东西打开,贯通，使通,C,A,A,A,Incorrect,Incorrect,Incorrect
+Q2_开_cut_through_0174,Q2,开洞时应采用专业的开洞工具和技术，确保洞口形状、尺寸和位置符合设计要求。,image schema,扩大,分割,贯通，使通,启，张，把关闭的东西打开,D,C,C,A,Incorrect,Incorrect,Incorrect
+Q2_走_move_0296,Q2,"词语解释走味,走味儿[zǒuwèi，zǒuwèiér]⒈跑味儿；味道、气味散失。",image schema,往来，社交,移动,行走,,C,B,B,C,Incorrect,Incorrect,Correct
+Q2_吃_bear_0429,Q2,吃亏和占便宜作为构成人生的无数个细微节点的两种不同选择，…。,metaphorical,忍受，承受,把东西送进口中咽下,感受,,B,A,A,A,Incorrect,Incorrect,Incorrect
+Q2_拿_control_0050,Q2,"当机立断拿不起放不下拿得起:想做什么事情,就敢于去做!放得下:做一件事时,知道变通,该放…。",metaphorical,拿取实物,控制、掌控,攻下，占领,,A,B,B,B,Incorrect,Incorrect,Incorrect
+Q2_吃_bear_0423,Q2,都是吃亏，但这两者是有很大区别的。,metaphorical,感受,把东西送进口中咽下,忍受，承受,,B,A,A,B,Incorrect,Incorrect,Correct
+Q2_开_cut_through_0171,Q2,这不是常规开洞的位置，而且实际项目中操作起来也是有局限和难…。,image schema,贯通，使通,分割,启，张，把关闭的东西打开,扩大,C,A,A,D,Incorrect,Incorrect,Incorrect
+Q2_走_walk_0281,Q2,不一会，它又出现在阳台外面，沿着阑干慢慢走过…。,proto,行走,移动,往来，社交,,A,B,B,D,Incorrect,Incorrect,Incorrect
+Q2_拿_take_0044,Q2,这是简约复古手拿包晚宴包硬斜挎包跨境欧美风金属色盒子包的详细页面。,proto,拿取实物,攻下，占领,控制、掌控,,A,C,C,D,Incorrect,Incorrect,Incorrect
+Q2_开_seperate_0192,Q2,广东，一位妈妈骑车早上送孩子去上学，不料，熊孩子在后座竟然用小刀悄悄将妈妈的羽绒服隔开，里面…。,image schema,扩大,分割,启，张，把关闭的东西打开,贯通，使通,C,A,A,A,Incorrect,Incorrect,Incorrect
+Q2_吃_feel_0414,Q2,那么你知道吃惊用英语怎么说吗?下面来学习一下吧。,metaphorical,把东西送进口中咽下,忍受，承受,感受,,A,C,A,C,Incorrect,Correct,Incorrect
+Q2_开_seperate_0202,Q2,五五开是否还有挽回的余地。,image schema,启，张，把关闭的东西打开,扩大,贯通，使通,分割,A,B,B,D,Incorrect,Incorrect,Incorrect
+Q3_走_social_contact_0348,Q3,"此次走访任务分小组实施，每组派5人实施，先行访问200名…。
+与“走漏”相关的成语走下坡路走丸逆坂走为上着走为上策走为上计漏卮难满漏尽更阑漏尽钟鸣漏尽锺鸣漏泄天机。",metaphorical,语义 A 通过意象图式转换从概念 B 中衍生而来,语义 A 通过隐喻连接从概念 B 中衍生而来,语义 B 通过意象图式转换从概念 A 中衍生而来,语义 B 通过隐喻连接从概念 A 中衍生而来,B,C,A,C,Incorrect,Incorrect,Incorrect
+Q3_开_seperate_0242,Q3,"大度开，就是大于正常纸张的开本。
+“空调温度过低且门窗大开，电灯长明，电脑24小时持续开机。",image schema,语义 A 通过意象图式转换从概念 B 中衍生而来,语义 A 通过隐喻连接从概念 B 中衍生而来,语义 B 通过意象图式转换从概念 A 中衍生而来,语义 B 通过隐喻连接从概念 A 中衍生而来,A,A,A,C,Correct,Correct,Incorrect
+Q3_吃_feel_0430,Q3,"如果你偶然闯入闲鱼兴趣圈，可能就会为谷子、棉花娃娃等在闲鱼的热度感到吃惊。
+,蔬菜,水果,粗粮,绿叶菜,全谷物,膳食纤维有许多人不喜欢吃蔬菜，而是喜欢吃肉。",metaphorical,语义 A 通过意象图式转换从概念 B 中衍生而来,语义 A 通过隐喻连接从概念 B 中衍生而来,语义 B 通过意象图式转换从概念 A 中衍生而来,语义 B 通过隐喻连接从概念 A 中衍生而来,B,C,C,C,Incorrect,Incorrect,Incorrect
+Q3_拿_occupy_0094,Q3,"奇葩手段拿下比赛，附魔强化不在话下2023年7月10日发布小运爱摔角0人关注。
+这是跨境男士长款手拿钱包大容量通勤简约零钱包学生钱夹卡包热销…。",image schema,语义 A 通过意象图式转换从概念 B 中衍生而来,语义 A 通过隐喻连接从概念 B 中衍生而来,语义 B 通过意象图式转换从概念 A 中衍生而来,语义 B 通过隐喻连接从概念 A 中衍生而来,A,B,B,D,Incorrect,Incorrect,Incorrect
+Q3_开_cut_through_0217,Q3,"是前人开了这条路，我们现在才走得平坦
+该桥始建于1916年，全长260米、宽27.7米，采用机械装置调节桥面高度以满足船只通行的开启桥设计。",image schema,语义 A 通过意象图式转换从概念 B 中衍生而来,语义 A 通过隐喻连接从概念 B 中衍生而来,语义 B 通过意象图式转换从概念 A 中衍生而来,语义 B 通过隐喻连接从概念 A 中衍生而来,A,A,A,A,Correct,Correct,Correct
+Q3_开_seperate_0237,Q3,"用小拉钩将切口向两侧对称拉开，一一结扎、切断皮下组织内的较大浅静脉。
+然而，有用户遇到打不开win10电源…。",image schema,语义 A 通过意象图式转换从概念 B 中衍生而来,语义 A 通过隐喻连接从概念 B 中衍生而来,语义 B 通过意象图式转换从概念 A 中衍生而来,语义 B 通过隐喻连接从概念 A 中衍生而来,A,B,B,D,Incorrect,Incorrect,Incorrect
+Q3_拿_control_0087,Q3,"要想不被人拿捏，就不能性格太好，要敢于翻脸。
+这句咒语叫：“它们是99.9%的人不用知道的杯子”，拿走不谢~七年前辞去KPMG审计师…。",metaphorical,语义 A 通过意象图式转换从概念 B 中衍生而来,语义 A 通过隐喻连接从概念 B 中衍生而来,语义 B 通过意象图式转换从概念 A 中衍生而来,语义 B 通过隐喻连接从概念 A 中衍生而来,B,C,C,D,Incorrect,Incorrect,Incorrect
+Q3_吃_feel_0435,Q3,"蒋门神虽然长大，近因酒色所迷，淘虚了身子，先自吃了那一惊。
+所以，吃完放纵餐之后，你感觉到的「胖了」其实是「肿了」：身体肿胀，感觉自…。",metaphorical,语义 A 通过意象图式转换从概念 B 中衍生而来,语义 A 通过隐喻连接从概念 B 中衍生而来,语义 B 通过意象图式转换从概念 A 中衍生而来,语义 B 通过隐喻连接从概念 A 中衍生而来,B,C,A,A,Incorrect,Incorrect,Incorrect
+Q3_吃_bear_0450,Q3,"青年“自找苦吃”，就要不断拼搏奋斗。
+所以，吃完放纵餐之后，你感觉到的「胖了」其实是「肿了」：身体肿胀，感觉自…。",metaphorical,语义 A 通过意象图式转换从概念 B 中衍生而来,语义 A 通过隐喻连接从概念 B 中衍生而来,语义 B 通过意象图式转换从概念 A 中衍生而来,语义 B 通过隐喻连接从概念 A 中衍生而来,B,A,A,C,Incorrect,Incorrect,Incorrect
+Q3_吃_bear_0453,Q3,"第一百零二回王庆因奸吃官司龚端被打师军犯话说王庆见板凳作怪，用脚去踢那板凳。
+而他们所吃的点心，其实也就是在为后来的一日三餐做铺垫。",metaphorical,语义 A 通过意象图式转换从概念 B 中衍生而来,语义 A 通过隐喻连接从概念 B 中衍生而来,语义 B 通过意象图式转换从概念 A 中衍生而来,语义 B 通过隐喻连接从概念 A 中衍生而来,B,A,A,D,Incorrect,Incorrect,Incorrect
+Q3_开_cut_through_0219,Q3,"很多矿产集团用传统的爆破方式来开洞
+好饿啊，你打开冰箱看看有什么吃的吧！",image schema,语义 A 通过意象图式转换从概念 B 中衍生而来,语义 A 通过隐喻连接从概念 B 中衍生而来,语义 B 通过意象图式转换从概念 A 中衍生而来,语义 B 通过隐喻连接从概念 A 中衍生而来,A,B,B,D,Incorrect,Incorrect,Incorrect
+Q3_开_cut_through_0215,Q3,"政府预计在2024年9月开地铁2号线
+文章详细介绍了电磁阀在液/气路系统中的作用，包括其基本概念如常开/常闭、位和...。",image schema,语义 A 通过意象图式转换从概念 B 中衍生而来,语义 A 通过隐喻连接从概念 B 中衍生而来,语义 B 通过意象图式转换从概念 A 中衍生而来,语义 B 通过隐喻连接从概念 A 中衍生而来,A,C,A,C,Incorrect,Correct,Incorrect
+Q3_拿_occupy_0102,Q3,"反正趴着不动等着拿下高地引用：2025-12-2210:17总有点元旦前拿下245高地的感觉。
+这句咒语叫：“它们是99.9%的人不用知道的杯子”，拿走不谢~七年前辞去KPMG审计师…。",image schema,语义 A 通过意象图式转换从概念 B 中衍生而来,语义 A 通过隐喻连接从概念 B 中衍生而来,语义 B 通过意象图式转换从概念 A 中衍生而来,语义 B 通过隐喻连接从概念 A 中衍生而来,A,B,D,B,Incorrect,Incorrect,Incorrect
+Q3_走_social_contact_0350,Q3,"相关例句有“卖油的小贩走街串巷地做生意。
+这个消息千万不能透露出去，以免走漏风声。",metaphorical,语义 A 通过意象图式转换从概念 B 中衍生而来,语义 A 通过隐喻连接从概念 B 中衍生而来,语义 B 通过意象图式转换从概念 A 中衍生而来,语义 B 通过隐喻连接从概念 A 中衍生而来,B,A,D,C,Incorrect,Incorrect,Incorrect
+Q3_吃_feel_0444,Q3,"早知道这样我怎会让他吃瘪
+-“只吃肉不吃主食”的减肥方法存在一定的风险。",metaphorical,语义 A 通过意象图式转换从概念 B 中衍生而来,语义 A 通过隐喻连接从概念 B 中衍生而来,语义 B 通过意象图式转换从概念 A 中衍生而来,语义 B 通过隐喻连接从概念 A 中衍生而来,B,C,A,A,Incorrect,Incorrect,Incorrect
+Q3_开_cut_through_0206,Q3,"首先，开洞必须严格按照设计要求进行施工，…。
+电源的开关符号中的‘—’表示关闭，用“O”表示打开也有开关用‘off’和“on”标识的。",image schema,语义 A 通过意象图式转换从概念 B 中衍生而来,语义 A 通过隐喻连接从概念 B 中衍生而来,语义 B 通过意象图式转换从概念 A 中衍生而来,语义 B 通过隐喻连接从概念 A 中衍生而来,A,B,B,A,Incorrect,Incorrect,Correct
+Q3_开_enlarge_0226,Q3,"加入开发人员计划，获取免费的即时沙盒和示例数据包（包括Teams）。
+普通开关的接触点之间是空气作为绝缘的，因为空气有良好的绝缘性能，但是在开关的过程…。",metaphorical,语义 A 通过意象图式转换从概念 B 中衍生而来,语义 A 通过隐喻连接从概念 B 中衍生而来,语义 B 通过意象图式转换从概念 A 中衍生而来,语义 B 通过隐喻连接从概念 A 中衍生而来,B,B,B,B,Correct,Correct,Correct
+Q3_拿_control_0079,Q3,"拿主意-由你来决定一个想法。
+这是跨境男士长款手拿钱包大容量通勤简约零钱包学生钱夹卡包热销…。",metaphorical,语义 A 通过意象图式转换从概念 B 中衍生而来,语义 A 通过隐喻连接从概念 B 中衍生而来,语义 B 通过意象图式转换从概念 A 中衍生而来,语义 B 通过隐喻连接从概念 A 中衍生而来,B,B,C,A,Correct,Incorrect,Incorrect
+Q3_走_move_0334,Q3,"风声总会走漏，这些见不得人的勾当终于东窗事发了。
+），编号为11的人走过来，把是…。",image schema,语义 A 通过意象图式转换从概念 B 中衍生而来,语义 A 通过隐喻连接从概念 B 中衍生而来,语义 B 通过意象图式转换从概念 A 中衍生而来,语义 B 通过隐喻连接从概念 A 中衍生而来,A,B,C,D,Incorrect,Incorrect,Incorrect
+Q3_走_move_0331,Q3,"如：「现在不法商人走漏严重，政府应加强缉私查税工作。
+走过只表示在你眼睛看着的前面过去，不一定是对着你的方向。",image schema,语义 A 通过意象图式转换从概念 B 中衍生而来,语义 A 通过隐喻连接从概念 B 中衍生而来,语义 B 通过意象图式转换从概念 A 中衍生而来,语义 B 通过隐喻连接从概念 A 中衍生而来,A,B,B,C,Incorrect,Incorrect,Incorrect
+Q3_走_move_0335,Q3,"这个消息千万不能透露出去，以免走漏风声。
+母亲拦住我：“那条路走不得。",image schema,语义 A 通过意象图式转换从概念 B 中衍生而来,语义 A 通过隐喻连接从概念 B 中衍生而来,语义 B 通过意象图式转换从概念 A 中衍生而来,语义 B 通过隐喻连接从概念 A 中衍生而来,A,B,C,C,Incorrect,Incorrect,Incorrect
+Q3_拿_occupy_0101,Q3,"部队接连攻占三个阵地后受阻，临近拂晓，再不拿下高地将贻误整个战机。
+【1】咖啡杯的正确拿法应是拇指和食指捏住杯耳将杯子端起。",image schema,语义 A 通过意象图式转换从概念 B 中衍生而来,语义 A 通过隐喻连接从概念 B 中衍生而来,语义 B 通过意象图式转换从概念 A 中衍生而来,语义 B 通过隐喻连接从概念 A 中衍生而来,A,B,B,D,Incorrect,Incorrect,Incorrect
+Q3_拿_occupy_0091,Q3,"点评比赛很累，上一场踢满120分钟，还是拿下比赛最重要...。
+房子没拿钥匙可能需交物业费。",image schema,语义 A 通过意象图式转换从概念 B 中衍生而来,语义 A 通过隐喻连接从概念 B 中衍生而来,语义 B 通过意象图式转换从概念 A 中衍生而来,语义 B 通过隐喻连接从概念 A 中衍生而来,A,B,A,C,Incorrect,Correct,Incorrect
+Q3_拿_occupy_0093,Q3,"DK稳健发挥成功拿下比赛。
+1、侵犯财产权：根据民法典规定，未经允许擅自拿取并使用他人钥匙可能需赔偿财产损失。",image schema,语义 A 通过意象图式转换从概念 B 中衍生而来,语义 A 通过隐喻连接从概念 B 中衍生而来,语义 B 通过意象图式转换从概念 A 中衍生而来,语义 B 通过隐喻连接从概念 A 中衍生而来,A,B,A,D,Incorrect,Correct,Incorrect
+Q3_拿_control_0085,Q3,"他因为没本事，在公司只能处处被人拿捏。
+记录与记忆：使用笔记录是保留信息的重要方式，因此，梦见拿笔也…。",metaphorical,语义 A 通过意象图式转换从概念 B 中衍生而来,语义 A 通过隐喻连接从概念 B 中衍生而来,语义 B 通过意象图式转换从概念 A 中衍生而来,语义 B 通过隐喻连接从概念 A 中衍生而来,B,B,B,A,Correct,Correct,Incorrect
+Q3_吃_feel_0436,Q3,"她说的话让我大吃了一惊。
+每次只要选择一种喜欢的高热量食物来吃，而非暴饮暴食。",metaphorical,语义 A 通过意象图式转换从概念 B 中衍生而来,语义 A 通过隐喻连接从概念 B 中衍生而来,语义 B 通过意象图式转换从概念 A 中衍生而来,语义 B 通过隐喻连接从概念 A 中衍生而来,B,B,B,C,Correct,Correct,Incorrect
+Q3_开_enlarge_0220,Q3,"将它们与Git管理和云部署一起使用，以获得完整的端到端开发人员体验。
+将冰箱门打开等霜融化，注意不要用利…。",metaphorical,语义 A 通过意象图式转换从概念 B 中衍生而来,语义 A 通过隐喻连接从概念 B 中衍生而来,语义 B 通过意象图式转换从概念 A 中衍生而来,语义 B 通过隐喻连接从概念 A 中衍生而来,B,A,C,C,Incorrect,Incorrect,Incorrect
+Q3_拿_control_0086,Q3,"木易知道自己这回是彻底拿住了她。
+【1】咖啡杯的正确拿法应是拇指和食指捏住杯耳将杯子端起。",metaphorical,语义 A 通过意象图式转换从概念 B 中衍生而来,语义 A 通过隐喻连接从概念 B 中衍生而来,语义 B 通过意象图式转换从概念 A 中衍生而来,语义 B 通过隐喻连接从概念 A 中衍生而来,B,B,B,B,Correct,Correct,Correct
+Q3_吃_bear_0448,Q3,"42、没有吃苦的经历，就没有享乐的感受。
+或者问：餐前吃和就餐时吃有啥区别吗。",metaphorical,语义 A 通过意象图式转换从概念 B 中衍生而来,语义 A 通过隐喻连接从概念 B 中衍生而来,语义 B 通过意象图式转换从概念 A 中衍生而来,语义 B 通过隐喻连接从概念 A 中衍生而来,B,B,C,D,Correct,Incorrect,Incorrect
+Q3_走_move_0330,Q3,"命将温媪锁禁空房，不许走漏消息。
+其一是源于余华文学作品中""爱情的脚步在屋前走过去又走过来""的唯美表达，被用作…。",image schema,语义 A 通过意象图式转换从概念 B 中衍生而来,语义 A 通过隐喻连接从概念 B 中衍生而来,语义 B 通过意象图式转换从概念 A 中衍生而来,语义 B 通过隐喻连接从概念 A 中衍生而来,A,D,B,C,Incorrect,Incorrect,Incorrect
+Q3_走_social_contact_0354,Q3,"2、在特定情境如征兵中走后门明确违法。
+走气走气，汉语词语，词义有两种，一是指漏泄气体，二是比喻泄劲。",metaphorical,语义 A 通过意象图式转换从概念 B 中衍生而来,语义 A 通过隐喻连接从概念 B 中衍生而来,语义 B 通过意象图式转换从概念 A 中衍生而来,语义 B 通过隐喻连接从概念 A 中衍生而来,B,B,A,C,Correct,Incorrect,Incorrect
+Q3_走_move_0333,Q3,"与“走漏”相关的成语走下坡路走丸逆坂走为上着走为上策走为上计漏卮难满漏尽更阑漏尽钟鸣漏尽锺鸣漏泄天机。
+他如果看到你走过来了，却没有要迎接的意思，那你就停下来，没有回应就停止行动。",image schema,语义 A 通过意象图式转换从概念 B 中衍生而来,语义 A 通过隐喻连接从概念 B 中衍生而来,语义 B 通过意象图式转换从概念 A 中衍生而来,语义 B 通过隐喻连接从概念 A 中衍生而来,A,B,C,C,Incorrect,Incorrect,Incorrect
+Q3_开_cut_through_0211,Q3,"叶飞枫骨立，萍尽沼乔开。
+普通开关的接触点之间是空气作为绝缘的，因为空气有良好的绝缘性能，但是在开关的过程…。",image schema,语义 A 通过意象图式转换从概念 B 中衍生而来,语义 A 通过隐喻连接从概念 B 中衍生而来,语义 B 通过意象图式转换从概念 A 中衍生而来,语义 B 通过隐喻连接从概念 A 中衍生而来,A,A,D,B,Correct,Incorrect,Incorrect
+Q3_拿_control_0075,Q3,"人生的智慧，往往藏在最简单的道理里——""拿得起，放得下""。
+不过在没有拿到钥匙的时候，可能很多人还都是有些困惑，毕竟第1次买房根本就不知道拿房子钥匙…。",metaphorical,语义 A 通过意象图式转换从概念 B 中衍生而来,语义 A 通过隐喻连接从概念 B 中衍生而来,语义 B 通过意象图式转换从概念 A 中衍生而来,语义 B 通过隐喻连接从概念 A 中衍生而来,B,A,B,D,Incorrect,Correct,Incorrect
+Q3_开_seperate_0243,Q3,"一种情况是楼上说的，就是互相开票，增加双方的营业额，…。
+本文基于Python和OpenCV，介绍图像形态学处理中的开、闭和梯度运算。",image schema,语义 A 通过意象图式转换从概念 B 中衍生而来,语义 A 通过隐喻连接从概念 B 中衍生而来,语义 B 通过意象图式转换从概念 A 中衍生而来,语义 B 通过隐喻连接从概念 A 中衍生而来,A,B,A,A,Incorrect,Correct,Correct
+Q3_开_enlarge_0231,Q3,"这块地被几个房地产公司抢着开发
+如果您打开了局域网世界，您应当可…。",metaphorical,语义 A 通过意象图式转换从概念 B 中衍生而来,语义 A 通过隐喻连接从概念 B 中衍生而来,语义 B 通过意象图式转换从概念 A 中衍生而来,语义 B 通过隐喻连接从概念 A 中衍生而来,B,D,D,C,Incorrect,Incorrect,Incorrect
+Q3_拿_occupy_0099,Q3,"“天亮之前，不拿下碉堡，大部队总攻就会受阻，解放全中国就会受到影响。
+总之，外国人拿笔的方式受到各种因素的影响，包括文化背景、个人偏好、生理能力和社会规范。",image schema,语义 A 通过意象图式转换从概念 B 中衍生而来,语义 A 通过隐喻连接从概念 B 中衍生而来,语义 B 通过意象图式转换从概念 A 中衍生而来,语义 B 通过隐喻连接从概念 A 中衍生而来,A,A,D,D,Correct,Incorrect,Incorrect
+Q3_吃_feel_0438,Q3,"老妇人吃惊地望着箭也似地…。
+而他们所吃的点心，其实也就是在为后来的一日三餐做铺垫。",metaphorical,语义 A 通过意象图式转换从概念 B 中衍生而来,语义 A 通过隐喻连接从概念 B 中衍生而来,语义 B 通过意象图式转换从概念 A 中衍生而来,语义 B 通过隐喻连接从概念 A 中衍生而来,B,A,B,A,Incorrect,Correct,Incorrect
+Q3_吃_feel_0443,Q3,"“喂吃醋啦你”，他半开玩笑地说
+然而，最近几年，不少人谈肉色变，年轻点的担心肉吃多了长胖变丑，年纪大一点的担心吃肉会导致三高…。",metaphorical,语义 A 通过意象图式转换从概念 B 中衍生而来,语义 A 通过隐喻连接从概念 B 中衍生而来,语义 B 通过意象图式转换从概念 A 中衍生而来,语义 B 通过隐喻连接从概念 A 中衍生而来,B,A,B,D,Incorrect,Correct,Incorrect
+Q3_开_enlarge_0230,Q3,"他这几年去美国开拓市场了
+文章详细介绍了电磁阀在液/气路系统中的作用，包括其基本概念如常开/常闭、位和...。",metaphorical,语义 A 通过意象图式转换从概念 B 中衍生而来,语义 A 通过隐喻连接从概念 B 中衍生而来,语义 B 通过意象图式转换从概念 A 中衍生而来,语义 B 通过隐喻连接从概念 A 中衍生而来,B,B,C,A,Correct,Incorrect,Incorrect
+Q3_拿_occupy_0090,Q3,"他在比赛中梅开二度，帮助球队拿下了至关重要…。
+不过在没有拿到钥匙的时候，可能很多人还都是有些困惑，毕竟第1次买房根本就不知道拿房子钥匙…。",image schema,语义 A 通过意象图式转换从概念 B 中衍生而来,语义 A 通过隐喻连接从概念 B 中衍生而来,语义 B 通过意象图式转换从概念 A 中衍生而来,语义 B 通过隐喻连接从概念 A 中衍生而来,A,D,A,B,Incorrect,Correct,Incorrect
+Q3_吃_bear_0451,Q3,"纠正错误生效裁判还工人清白一张画面模糊的照片，竟让普通工人吃了30万元的赔偿官司。
+每次只要选择一种喜欢的高热量食物来吃，而非暴饮暴食。",metaphorical,语义 A 通过意象图式转换从概念 B 中衍生而来,语义 A 通过隐喻连接从概念 B 中衍生而来,语义 B 通过意象图式转换从概念 A 中衍生而来,语义 B 通过隐喻连接从概念 A 中衍生而来,B,B,B,D,Correct,Correct,Incorrect
+Q3_开_cut_through_0214,Q3,"而且，窗户也不能开在屋顶，只能“前辟”。
+金文①的形体生动形象，其上部是关闭的两扇门，其下部是两只手，这就表示双手把门推开的意思。",image schema,语义 A 通过意象图式转换从概念 B 中衍生而来,语义 A 通过隐喻连接从概念 B 中衍生而来,语义 B 通过意象图式转换从概念 A 中衍生而来,语义 B 通过隐喻连接从概念 A 中衍生而来,A,A,C,C,Correct,Incorrect,Incorrect
+Q3_拿_occupy_0097,Q3,"一路火花闪电拿下全国记录。
+拿笔姿势坐姿问题常见的8大错误握笔方式错误1：横搭型孩子写字缓慢、写字太用力、容易疲倦。",image schema,语义 A 通过意象图式转换从概念 B 中衍生而来,语义 A 通过隐喻连接从概念 B 中衍生而来,语义 B 通过意象图式转换从概念 A 中衍生而来,语义 B 通过隐喻连接从概念 A 中衍生而来,A,B,B,A,Incorrect,Incorrect,Correct
+Q3_开_seperate_0240,Q3,"经皮环甲膜切开术后护理可以做胸部X光检查以确认位置。
+对于电灯的开关是向上开是打开灯，还是向下是打开灯，个人也不知道有没有强制性的规定。",image schema,语义 A 通过意象图式转换从概念 B 中衍生而来,语义 A 通过隐喻连接从概念 B 中衍生而来,语义 B 通过意象图式转换从概念 A 中衍生而来,语义 B 通过隐喻连接从概念 A 中衍生而来,A,A,A,B,Correct,Correct,Incorrect
+Q3_开_seperate_0244,Q3,"其实很简单，A-A或B-B线型位置就是产品剖开的位置，箭头所指的方向就是剖开放置图纸的方向。
+金文①的形体生动形象，其上部是关闭的两扇门，其下部是两只手，这就表示双手把门推开的意思。",image schema,语义 A 通过意象图式转换从概念 B 中衍生而来,语义 A 通过隐喻连接从概念 B 中衍生而来,语义 B 通过意象图式转换从概念 A 中衍生而来,语义 B 通过隐喻连接从概念 A 中衍生而来,A,A,A,A,Correct,Correct,Correct
+Q3_走_social_contact_0343,Q3,"走亲戚，更是这个春节必不可少的一环。
+5.2反走样方法当採样不满足上述重建的基本条件时就会产生走样，而针对走样产生的原因，通…。",metaphorical,语义 A 通过意象图式转换从概念 B 中衍生而来,语义 A 通过隐喻连接从概念 B 中衍生而来,语义 B 通过意象图式转换从概念 A 中衍生而来,语义 B 通过隐喻连接从概念 A 中衍生而来,B,C,B,C,Incorrect,Correct,Incorrect
+Q3_开_enlarge_0222,Q3,"服务商代开发面向定制开发ISV，通过企业授权相关权限，可调用相关接口为企业提供软件定制开发服务。
+然而，有用户遇到打不开win10电源…。",metaphorical,语义 A 通过意象图式转换从概念 B 中衍生而来,语义 A 通过隐喻连接从概念 B 中衍生而来,语义 B 通过意象图式转换从概念 A 中衍生而来,语义 B 通过隐喻连接从概念 A 中衍生而来,B,A,A,D,Incorrect,Incorrect,Incorrect
+Q3_开_cut_through_0205,Q3,"楼板从不开洞到开洞再到洞口越来越大，弯矩也越来越大，说明盈建科软件采用有限元计…。
+将冰箱门打开等霜融化，注意不要用利…。",image schema,语义 A 通过意象图式转换从概念 B 中衍生而来,语义 A 通过隐喻连接从概念 B 中衍生而来,语义 B 通过意象图式转换从概念 A 中衍生而来,语义 B 通过隐喻连接从概念 A 中衍生而来,A,A,C,B,Correct,Incorrect,Incorrect
+Q3_走_move_0326,Q3,"走样的意思：（动词）失去原有的样子：话三传两传就走样了。
+“步行去”很多情况下可以和“走路去”互换，几乎没有区别。",image schema,语义 A 通过意象图式转换从概念 B 中衍生而来,语义 A 通过隐喻连接从概念 B 中衍生而来,语义 B 通过意象图式转换从概念 A 中衍生而来,语义 B 通过隐喻连接从概念 A 中衍生而来,A,A,B,B,Correct,Incorrect,Incorrect
+Q3_开_seperate_0241,Q3,"那苹果切开为什么会变褐色呢。
+普通开关的接触点之间是空气作为绝缘的，因为空气有良好的绝缘性能，但是在开关的过程…。",image schema,语义 A 通过意象图式转换从概念 B 中衍生而来,语义 A 通过隐喻连接从概念 B 中衍生而来,语义 B 通过意象图式转换从概念 A 中衍生而来,语义 B 通过隐喻连接从概念 A 中衍生而来,A,C,C,A,Incorrect,Incorrect,Correct
+Q3_拿_control_0084,Q3,"该词表示立定的心意、办法，既可指确定的意见或办法（如“拿主意”），也可指用意或筹划…。
+总之，外国人拿笔的方式受到各种因素的影响，包括文化背景、个人偏好、生理能力和社会规范。",metaphorical,语义 A 通过意象图式转换从概念 B 中衍生而来,语义 A 通过隐喻连接从概念 B 中衍生而来,语义 B 通过意象图式转换从概念 A 中衍生而来,语义 B 通过隐喻连接从概念 A 中衍生而来,B,A,B,D,Incorrect,Correct,Incorrect
+Q3_开_cut_through_0208,Q3,"在这篇文章中，我们将详细介绍什么是开路和短路，以及在电气系统中的应用。
+本文介绍了电脑电源灯闪烁但无法开机的几种解决方法。",image schema,语义 A 通过意象图式转换从概念 B 中衍生而来,语义 A 通过隐喻连接从概念 B 中衍生而来,语义 B 通过意象图式转换从概念 A 中衍生而来,语义 B 通过隐喻连接从概念 A 中衍生而来,A,D,B,B,Incorrect,Incorrect,Incorrect
+Q3_吃_bear_0455,Q3,"要不受气，就要做那种打死人也不吃官司的人。
+餐前适量吃点垫垫肚子(餐前负荷)，提前动员与控制血糖有关的胃肠激素和胰岛素，有利于餐后血糖控制。",metaphorical,语义 A 通过意象图式转换从概念 B 中衍生而来,语义 A 通过隐喻连接从概念 B 中衍生而来,语义 B 通过意象图式转换从概念 A 中衍生而来,语义 B 通过隐喻连接从概念 A 中衍生而来,B,B,A,B,Correct,Incorrect,Correct
+Q3_拿_occupy_0100,Q3,"就这样帮助八路军拿下这座顽固的碉堡。
+记录与记忆：使用笔记录是保留信息的重要方式，因此，梦见拿笔也…。",image schema,语义 A 通过意象图式转换从概念 B 中衍生而来,语义 A 通过隐喻连接从概念 B 中衍生而来,语义 B 通过意象图式转换从概念 A 中衍生而来,语义 B 通过隐喻连接从概念 A 中衍生而来,A,D,B,B,Incorrect,Incorrect,Incorrect
+Q3_走_social_contact_0344,Q3,"如：「我们会同代表一起走访李老先生。
+德州走四方高级技工学校德州发展前景怎么样。",metaphorical,语义 A 通过意象图式转换从概念 B 中衍生而来,语义 A 通过隐喻连接从概念 B 中衍生而来,语义 B 通过意象图式转换从概念 A 中衍生而来,语义 B 通过隐喻连接从概念 A 中衍生而来,B,C,A,D,Incorrect,Incorrect,Incorrect
+Q3_拿_occupy_0103,Q3,"时近拂晓，再不拿下高地将贻误整个战机。
+下列哪个选项是“拿杯子往桌上一duo”中“duo”字的正确写法。",image schema,语义 A 通过意象图式转换从概念 B 中衍生而来,语义 A 通过隐喻连接从概念 B 中衍生而来,语义 B 通过意象图式转换从概念 A 中衍生而来,语义 B 通过隐喻连接从概念 A 中衍生而来,A,A,B,B,Correct,Incorrect,Incorrect
+Q3_开_seperate_0235,Q3,"4月28日进行了五五开黑节的第二弹更新，这次更新后有大量皮肤活动将正式开启，下面我们一起来看看吧。
+将冰箱门打开等霜融化，注意不要用利…。",image schema,语义 A 通过意象图式转换从概念 B 中衍生而来,语义 A 通过隐喻连接从概念 B 中衍生而来,语义 B 通过意象图式转换从概念 A 中衍生而来,语义 B 通过隐喻连接从概念 A 中衍生而来,A,A,C,C,Correct,Incorrect,Incorrect
+Q3_开_seperate_0239,Q3,"用于较长的皮肤切口和腹直肌前鞘的切开等。
+，相关视频：圆孔装开关是所有电工的最忌讳的事，就算多给100块，都不愿意…。",image schema,语义 A 通过意象图式转换从概念 B 中衍生而来,语义 A 通过隐喻连接从概念 B 中衍生而来,语义 B 通过意象图式转换从概念 A 中衍生而来,语义 B 通过隐喻连接从概念 A 中衍生而来,A,A,D,D,Correct,Incorrect,Incorrect
+Q3_走_social_contact_0347,Q3,"三个关键词教你如何正确走访。
+""走漏""是一个常用词语，主要表示消息、情报等不经意间泄露或传出。",metaphorical,语义 A 通过意象图式转换从概念 B 中衍生而来,语义 A 通过隐喻连接从概念 B 中衍生而来,语义 B 通过意象图式转换从概念 A 中衍生而来,语义 B 通过隐喻连接从概念 A 中衍生而来,B,B,A,A,Correct,Incorrect,Incorrect
+Q3_开_enlarge_0228,Q3,"嘉立创EDA提供数十万开源与私有工程，支持在线PCB设计，助力电子工程师高效完成电路板开发。
+本文基于Python和OpenCV，介绍图像形态学处理中的开、闭和梯度运算。",metaphorical,语义 A 通过意象图式转换从概念 B 中衍生而来,语义 A 通过隐喻连接从概念 B 中衍生而来,语义 B 通过意象图式转换从概念 A 中衍生而来,语义 B 通过隐喻连接从概念 A 中衍生而来,B,D,C,C,Incorrect,Incorrect,Incorrect
+Q3_拿_control_0080,Q3,"拿主意的意思：意思是对一件事情作出决断。
+男士钱包/手拿包选购技巧柠檬红茶加点冰。",metaphorical,语义 A 通过意象图式转换从概念 B 中衍生而来,语义 A 通过隐喻连接从概念 B 中衍生而来,语义 B 通过意象图式转换从概念 A 中衍生而来,语义 B 通过隐喻连接从概念 A 中衍生而来,B,B,A,A,Correct,Incorrect,Incorrect
+Q3_走_move_0339,Q3,"走气走气，汉语词语，词义有两种，一是指漏泄气体，二是比喻泄劲。
+有人说：可能是一本旅行册，我走过的路，我都记得。",image schema,语义 A 通过意象图式转换从概念 B 中衍生而来,语义 A 通过隐喻连接从概念 B 中衍生而来,语义 B 通过意象图式转换从概念 A 中衍生而来,语义 B 通过隐喻连接从概念 A 中衍生而来,A,D,A,C,Incorrect,Correct,Incorrect
+Q3_开_seperate_0248,Q3,"“剖开肚子证明清白”这一典故，通常指的是古代的一种极端而悲剧性的自证方式。
+他打开门，抽着烟鞋也没脱就进来了",image schema,语义 A 通过意象图式转换从概念 B 中衍生而来,语义 A 通过隐喻连接从概念 B 中衍生而来,语义 B 通过意象图式转换从概念 A 中衍生而来,语义 B 通过隐喻连接从概念 A 中衍生而来,A,A,A,B,Correct,Correct,Incorrect
+Q3_走_move_0328,Q3,"5.2反走样方法当採样不满足上述重建的基本条件时就会产生走样，而针对走样产生的原因，通…。
+二、意思：趟水：从浅水里走过去。",image schema,语义 A 通过意象图式转换从概念 B 中衍生而来,语义 A 通过隐喻连接从概念 B 中衍生而来,语义 B 通过意象图式转换从概念 A 中衍生而来,语义 B 通过隐喻连接从概念 A 中衍生而来,A,B,D,D,Incorrect,Incorrect,Incorrect
+Q3_开_enlarge_0224,Q3,"小程序开发者可在小程序内提供便捷、丰富的服…。
+，相关视频：圆孔装开关是所有电工的最忌讳的事，就算多给100块，都不愿意…。",metaphorical,语义 A 通过意象图式转换从概念 B 中衍生而来,语义 A 通过隐喻连接从概念 B 中衍生而来,语义 B 通过意象图式转换从概念 A 中衍生而来,语义 B 通过隐喻连接从概念 A 中衍生而来,B,A,C,D,Incorrect,Incorrect,Incorrect
+Q3_开_cut_through_0210,Q3,"开路[kāilu]⒈一种朝山进香会中的杂技，舞飞叉居前列，故称为「开路」。
+对于电灯的开关是向上开是打开灯，还是向下是打开灯，个人也不知道有没有强制性的规定。",image schema,语义 A 通过意象图式转换从概念 B 中衍生而来,语义 A 通过隐喻连接从概念 B 中衍生而来,语义 B 通过意象图式转换从概念 A 中衍生而来,语义 B 通过隐喻连接从概念 A 中衍生而来,A,A,D,C,Correct,Incorrect,Incorrect
+Q3_开_cut_through_0209,Q3,"在电学中，理解开路原理对于分析电路故障和设计电路保护机制至关重要。
+，相关视频：圆孔装开关是所有电工的最忌讳的事，就算多给100块，都不愿意…。",image schema,语义 A 通过意象图式转换从概念 B 中衍生而来,语义 A 通过隐喻连接从概念 B 中衍生而来,语义 B 通过意象图式转换从概念 A 中衍生而来,语义 B 通过隐喻连接从概念 A 中衍生而来,A,A,B,D,Correct,Incorrect,Incorrect
+Q3_吃_bear_0445,Q3,"学会吃亏才不吃亏在当今社会里，只有…。
+,蔬菜,水果,粗粮,绿叶菜,全谷物,膳食纤维有许多人不喜欢吃蔬菜，而是喜欢吃肉。",metaphorical,语义 A 通过意象图式转换从概念 B 中衍生而来,语义 A 通过隐喻连接从概念 B 中衍生而来,语义 B 通过意象图式转换从概念 A 中衍生而来,语义 B 通过隐喻连接从概念 A 中衍生而来,B,B,C,A,Correct,Incorrect,Incorrect
+Q3_拿_control_0082,Q3,"在请领导拿主意时，要把握时机、明确表述、尊重领导、避免争执、充分准备。
+拿笔姿势坐姿问题常见的8大错误握笔方式错误1：横搭型孩子写字缓慢、写字太用力、容易疲倦。",metaphorical,语义 A 通过意象图式转换从概念 B 中衍生而来,语义 A 通过隐喻连接从概念 B 中衍生而来,语义 B 通过意象图式转换从概念 A 中衍生而来,语义 B 通过隐喻连接从概念 A 中衍生而来,B,B,C,C,Correct,Incorrect,Incorrect
+Q3_开_cut_through_0218,Q3,"开隧道可不是什么容易的事！
+他打开门，抽着烟鞋也没脱就进来了",image schema,语义 A 通过意象图式转换从概念 B 中衍生而来,语义 A 通过隐喻连接从概念 B 中衍生而来,语义 B 通过意象图式转换从概念 A 中衍生而来,语义 B 通过隐喻连接从概念 A 中衍生而来,A,A,A,C,Correct,Correct,Incorrect
+Q3_开_seperate_0245,Q3,"将火龙果去头尾，然后对半切开，竖着…。
+文章详细介绍了电磁阀在液/气路系统中的作用，包括其基本概念如常开/常闭、位和...。",image schema,语义 A 通过意象图式转换从概念 B 中衍生而来,语义 A 通过隐喻连接从概念 B 中衍生而来,语义 B 通过意象图式转换从概念 A 中衍生而来,语义 B 通过隐喻连接从概念 A 中衍生而来,A,C,C,C,Incorrect,Incorrect,Incorrect
+Q3_走_move_0327,Q3,"文章详细介绍了计算机图形学中走样的概念，以及反走样技术，特别是多重采样抗锯齿(MSAA)方法。
+走过去，虽然不易，因为任何事情的发生必然有其原因有结果也有收获，走过去，虽…。",image schema,语义 A 通过意象图式转换从概念 B 中衍生而来,语义 A 通过隐喻连接从概念 B 中衍生而来,语义 B 通过意象图式转换从概念 A 中衍生而来,语义 B 通过隐喻连接从概念 A 中衍生而来,A,B,C,A,Incorrect,Incorrect,Correct
+Q3_吃_feel_0434,Q3,"“吃惊”是指由于某种突如其来的情况或信息，让人感到意外、诧异，从而产生的情绪反应。
+在运动量不变的前提下，每天多吃一口饭，或半个饺子，或一小把坚果，一年体重可增加3…。",metaphorical,语义 A 通过意象图式转换从概念 B 中衍生而来,语义 A 通过隐喻连接从概念 B 中衍生而来,语义 B 通过意象图式转换从概念 A 中衍生而来,语义 B 通过隐喻连接从概念 A 中衍生而来,B,B,A,A,Correct,Incorrect,Incorrect
+Q3_吃_feel_0440,Q3,"他吃了这一吓，自是大病一场。
+餐前适量吃点垫垫肚子(餐前负荷)，提前动员与控制血糖有关的胃肠激素和胰岛素，有利于餐后血糖控制。",metaphorical,语义 A 通过意象图式转换从概念 B 中衍生而来,语义 A 通过隐喻连接从概念 B 中衍生而来,语义 B 通过意象图式转换从概念 A 中衍生而来,语义 B 通过隐喻连接从概念 A 中衍生而来,B,A,C,A,Incorrect,Incorrect,Incorrect
+Q3_拿_control_0083,Q3,"大量翻译例句关于""拿主意""–中英词典以及8百万条英语译文例句搜索。
+手拿笔感觉没力气可能与肌肉疲劳、神经受压、血液循环障碍或基础疾病有关。",metaphorical,语义 A 通过意象图式转换从概念 B 中衍生而来,语义 A 通过隐喻连接从概念 B 中衍生而来,语义 B 通过意象图式转换从概念 A 中衍生而来,语义 B 通过隐喻连接从概念 A 中衍生而来,B,B,C,C,Correct,Incorrect,Incorrect
+Q3_拿_control_0088,Q3,"江宁觉得自己像一只被他拿捏在手的小鼠，逃不掉也走不开。
+下列哪个选项是“拿杯子往桌上一duo”中“duo”字的正确写法。",metaphorical,语义 A 通过意象图式转换从概念 B 中衍生而来,语义 A 通过隐喻连接从概念 B 中衍生而来,语义 B 通过意象图式转换从概念 A 中衍生而来,语义 B 通过隐喻连接从概念 A 中衍生而来,B,B,C,C,Correct,Incorrect,Incorrect
+Q3_走_social_contact_0345,Q3,"词典解释前往访问或拜访：张老师经常走访学生的家长｜他们四处走访，了解民情。
+命将温媪锁禁空房，不许走漏消息。",metaphorical,语义 A 通过意象图式转换从概念 B 中衍生而来,语义 A 通过隐喻连接从概念 B 中衍生而来,语义 B 通过意象图式转换从概念 A 中衍生而来,语义 B 通过隐喻连接从概念 A 中衍生而来,B,C,A,B,Incorrect,Incorrect,Correct
+Q3_拿_control_0078,Q3,"当机立断拿不起放不下拿得起:想做什么事情,就敢于去做!放得下:做…。
+1、侵犯财产权：根据民法典规定，未经允许擅自拿取并使用他人钥匙可能需赔偿财产损失。",metaphorical,语义 A 通过意象图式转换从概念 B 中衍生而来,语义 A 通过隐喻连接从概念 B 中衍生而来,语义 B 通过意象图式转换从概念 A 中衍生而来,语义 B 通过隐喻连接从概念 A 中衍生而来,B,B,A,A,Correct,Incorrect,Incorrect
+Q3_拿_occupy_0092,Q3,"领先后王楚钦保持了一个完美的手感，再加上自己发球轮也可以持续得分，局末拉开到9-4，从而11-5拿下比赛…。
+新房没拿钥匙可能也要交物业费。",image schema,语义 A 通过意象图式转换从概念 B 中衍生而来,语义 A 通过隐喻连接从概念 B 中衍生而来,语义 B 通过意象图式转换从概念 A 中衍生而来,语义 B 通过隐喻连接从概念 A 中衍生而来,A,C,C,A,Incorrect,Incorrect,Correct
+Q3_开_cut_through_0213,Q3,"这种类型的上开桥几乎都是施特劳斯及其公司设计和建造的，因而也被…。
+本文基于Python和OpenCV，介绍图像形态学处理中的开、闭和梯度运算。",image schema,语义 A 通过意象图式转换从概念 B 中衍生而来,语义 A 通过隐喻连接从概念 B 中衍生而来,语义 B 通过意象图式转换从概念 A 中衍生而来,语义 B 通过隐喻连接从概念 A 中衍生而来,A,A,D,D,Correct,Incorrect,Incorrect
+Q3_开_seperate_0247,Q3,"该方法操作步骤包括剪开上下腔静脉后，依次剖开右心房、右心室、肺动脉及左心…。
+该桥始建于1916年，全长260米、宽27.7米，采用机械装置调节桥面高度以满足船只通行的开启桥设计。",image schema,语义 A 通过意象图式转换从概念 B 中衍生而来,语义 A 通过隐喻连接从概念 B 中衍生而来,语义 B 通过意象图式转换从概念 A 中衍生而来,语义 B 通过隐喻连接从概念 A 中衍生而来,A,C,D,A,Incorrect,Incorrect,Correct
+Q3_吃_bear_0456,Q3,"鲁达寻思道：“俺只指望痛打这厮一顿，不想三拳真个打死了他，洒家须吃官司，又没人送饭，不如及早撒开。
+肉类作为优质蛋白的重要来源，如果不吃或者吃不够，直接影响蛋…。",metaphorical,语义 A 通过意象图式转换从概念 B 中衍生而来,语义 A 通过隐喻连接从概念 B 中衍生而来,语义 B 通过意象图式转换从概念 A 中衍生而来,语义 B 通过隐喻连接从概念 A 中衍生而来,B,B,B,A,Correct,Correct,Incorrect
+Q3_拿_control_0081,Q3,"自己拿主意作文1今天，妈妈问我想吃苹果还是吃香蕉，我拿不定主意，于是妈妈说：“那我看着买吧。
+这是真皮女士长款拉链荔枝纹牛皮革日本手拿钱包日式长枥木财布wallet的详细页…。",metaphorical,语义 A 通过意象图式转换从概念 B 中衍生而来,语义 A 通过隐喻连接从概念 B 中衍生而来,语义 B 通过意象图式转换从概念 A 中衍生而来,语义 B 通过隐喻连接从概念 A 中衍生而来,B,C,C,D,Incorrect,Incorrect,Incorrect
+Q3_走_social_contact_0351,Q3,"那么今天我就来和大家聊聊关于走后门的那些注意事项~…。
+""走漏""作为汉语动词，核心义项指信息或秘密的非授权传播，读音为zǒulòu[2-3]。",metaphorical,语义 A 通过意象图式转换从概念 B 中衍生而来,语义 A 通过隐喻连接从概念 B 中衍生而来,语义 B 通过意象图式转换从概念 A 中衍生而来,语义 B 通过隐喻连接从概念 A 中衍生而来,B,B,C,C,Correct,Incorrect,Incorrect
+Q3_吃_feel_0442,Q3,"红玉暗自想：不就是吃了一吓吗，有什么大不了的
+只要还有人有社会，就会有吃肉还是吃素的争议。",metaphorical,语义 A 通过意象图式转换从概念 B 中衍生而来,语义 A 通过隐喻连接从概念 B 中衍生而来,语义 B 通过意象图式转换从概念 A 中衍生而来,语义 B 通过隐喻连接从概念 A 中衍生而来,B,D,D,D,Incorrect,Incorrect,Incorrect
+Q3_吃_feel_0433,Q3,"3.我看到他的新发型时吃惊得合不拢嘴。
+或者问：餐前吃和就餐时吃有啥区别吗。",metaphorical,语义 A 通过意象图式转换从概念 B 中衍生而来,语义 A 通过隐喻连接从概念 B 中衍生而来,语义 B 通过意象图式转换从概念 A 中衍生而来,语义 B 通过隐喻连接从概念 A 中衍生而来,B,B,B,B,Correct,Correct,Correct
+Q3_开_enlarge_0229,Q3,"本章分主题的介绍了小程序的开发…。
+金文①的形体生动形象，其上部是关闭的两扇门，其下部是两只手，这就表示双手把门推开的意思。",metaphorical,语义 A 通过意象图式转换从概念 B 中衍生而来,语义 A 通过隐喻连接从概念 B 中衍生而来,语义 B 通过意象图式转换从概念 A 中衍生而来,语义 B 通过隐喻连接从概念 A 中衍生而来,B,B,B,B,Correct,Correct,Correct
+Q3_开_enlarge_0225,Q3,"国家开发银行网上银行提供多种在线金融服务，包括信贷发放、账务查询和支付转账等功能。
+对于电灯的开关是向上开是打开灯，还是向下是打开灯，个人也不知道有没有强制性的规定。",metaphorical,语义 A 通过意象图式转换从概念 B 中衍生而来,语义 A 通过隐喻连接从概念 B 中衍生而来,语义 B 通过意象图式转换从概念 A 中衍生而来,语义 B 通过隐喻连接从概念 A 中衍生而来,B,A,D,B,Incorrect,Incorrect,Correct
+Q3_走_social_contact_0346,Q3,"各级党组织和广大党员干部要必须“执心而行”，在走、访、慰、问...。
+如：「现在不法商人走漏严重，政府应加强缉私查税工作。",metaphorical,语义 A 通过意象图式转换从概念 B 中衍生而来,语义 A 通过隐喻连接从概念 B 中衍生而来,语义 B 通过意象图式转换从概念 A 中衍生而来,语义 B 通过隐喻连接从概念 A 中衍生而来,B,A,B,D,Incorrect,Correct,Incorrect
+Q3_开_enlarge_0221,Q3,"Flutter官方文档中文版，包含SDK下载、最新特性介绍、代码示例、开发文档、中文社区等内容。
+电源的开关符号中的‘—’表示关闭，用“O”表示打开也有开关用‘off’和“on”标识的。",metaphorical,语义 A 通过意象图式转换从概念 B 中衍生而来,语义 A 通过隐喻连接从概念 B 中衍生而来,语义 B 通过意象图式转换从概念 A 中衍生而来,语义 B 通过隐喻连接从概念 A 中衍生而来,B,D,C,C,Incorrect,Incorrect,Incorrect
+Q3_吃_bear_0457,Q3,"九阴真经NPC好感度怎么刷才能不吃闭门羹。
+只要还有人有社会，就会有吃肉还是吃素的争议。",metaphorical,语义 A 通过意象图式转换从概念 B 中衍生而来,语义 A 通过隐喻连接从概念 B 中衍生而来,语义 B 通过意象图式转换从概念 A 中衍生而来,语义 B 通过隐喻连接从概念 A 中衍生而来,B,D,C,C,Incorrect,Incorrect,Incorrect
+Q3_吃_bear_0458,Q3,"成语“吃闭门羹”竟然是来源于这样一个特殊职业。
+ 然而，最近几年，不少人谈肉色变，年轻点的担心肉吃多了长胖变丑，年纪大一点的担心吃肉会导致三高…。",metaphorical,语义 A 通过意象图式转换从概念 B 中衍生而来,语义 A 通过隐喻连接从概念 B 中衍生而来,语义 B 通过意象图式转换从概念 A 中衍生而来,语义 B 通过隐喻连接从概念 A 中衍生而来,B,B,B,B,Correct,Correct,Correct
+Q3_开_seperate_0236,Q3,"终于，有网友幸运地晒出了偶遇五五开的照片，引发了网络上新一轮的热议。
+ 电源的开关符号中的‘—’表示关闭，用“O”表示打开也有开关用‘off’和“on”标识的。",image schema,语义 A 通过意象图式转换从概念 B 中衍生而来,语义 A 通过隐喻连接从概念 B 中衍生而来,语义 B 通过意象图式转换从概念 A 中衍生而来,语义 B 通过隐喻连接从概念 A 中衍生而来,A,A,A,A,Correct,Correct,Correct
+Q3_走_move_0329,Q3,"德州走四方高级技工学校德州发展前景怎么样。
+2、人生没有不可逾越的天堑，只要一步步走过去，前方就是幸福的彼岸。",image schema,语义 A 通过意象图式转换从概念 B 中衍生而来,语义 A 通过隐喻连接从概念 B 中衍生而来,语义 B 通过意象图式转换从概念 A 中衍生而来,语义 B 通过隐喻连接从概念 A 中衍生而来,A,D,A,B,Incorrect,Correct,Incorrect
+Q3_吃_feel_0437,Q3,"”雷横吃了一惊，回过头来，见是刘唐拈着朴刀赶来。
+吃减脂餐还没瘦，到底是哪里出了问题。",metaphorical,语义 A 通过意象图式转换从概念 B 中衍生而来,语义 A 通过隐喻连接从概念 B 中衍生而来,语义 B 通过意象图式转换从概念 A 中衍生而来,语义 B 通过隐喻连接从概念 A 中衍生而来,B,C,A,A,Incorrect,Incorrect,Incorrect
+Q3_走_social_contact_0341,Q3,"2017-01-2817:42大过年的，大家都走亲戚，但是大家一定要知道，过年走亲戚的“六大禁忌”。
+走样的意思：（动词）失去原有的样子：话三传两传就走样了。",metaphorical,语义 A 通过意象图式转换从概念 B 中衍生而来,语义 A 通过隐喻连接从概念 B 中衍生而来,语义 B 通过意象图式转换从概念 A 中衍生而来,语义 B 通过隐喻连接从概念 A 中衍生而来,B,C,A,D,Incorrect,Incorrect,Incorrect
+Q3_开_cut_through_0216,Q3,"他的父亲曾是一名开矿洞的工人
+如果您打开了局域网世界，您应当可…。",image schema,语义 A 通过意象图式转换从概念 B 中衍生而来,语义 A 通过隐喻连接从概念 B 中衍生而来,语义 B 通过意象图式转换从概念 A 中衍生而来,语义 B 通过隐喻连接从概念 A 中衍生而来,A,C,B,B,Incorrect,Incorrect,Incorrect
+Q3_开_enlarge_0233,Q3,"坐着柴车，穿着破衣服，去开辟山林。
+他打开门，抽着烟鞋也没脱就进来了",metaphorical,语义 A 通过意象图式转换从概念 B 中衍生而来,语义 A 通过隐喻连接从概念 B 中衍生而来,语义 B 通过意象图式转换从概念 A 中衍生而来,语义 B 通过隐喻连接从概念 A 中衍生而来,B,A,A,A,Incorrect,Incorrect,Incorrect
+Q3_走_social_contact_0340,Q3,"通过亲戚间的来往探望，有越走越亲的意味。
+如：「一场大病之后，他整个人都走样了。",metaphorical,语义 A 通过意象图式转换从概念 B 中衍生而来,语义 A 通过隐喻连接从概念 B 中衍生而来,语义 B 通过意象图式转换从概念 A 中衍生而来,语义 B 通过隐喻连接从概念 A 中衍生而来,B,A,B,C,Incorrect,Correct,Incorrect
+Q3_开_enlarge_0223,Q3,"现在正是在Apple平台上进行开发的绝佳时机。
+本文介绍了电脑电源灯闪烁但无法开机的几种解决方法。",metaphorical,语义 A 通过意象图式转换从概念 B 中衍生而来,语义 A 通过隐喻连接从概念 B 中衍生而来,语义 B 通过意象图式转换从概念 A 中衍生而来,语义 B 通过隐喻连接从概念 A 中衍生而来,B,B,D,B,Correct,Incorrect,Correct
+Q3_走_move_0338,Q3,"走气，汉语词语，词义有两种，一是指漏泄气体，二是比喻泄劲。
+’人生没有白走的路，每一步都算数。",image schema,语义 A 通过意象图式转换从概念 B 中衍生而来,语义 A 通过隐喻连接从概念 B 中衍生而来,语义 B 通过意象图式转换从概念 A 中衍生而来,语义 B 通过隐喻连接从概念 A 中衍生而来,A,D,C,A,Incorrect,Incorrect,Correct
+Q3_吃_bear_0452,Q3,"查看吃官司的近义词和反义词，以及相关示例句子，提升对该成语的理解。
+吃减脂餐还没瘦，到底是哪里出了问题。",metaphorical,语义 A 通过意象图式转换从概念 B 中衍生而来,语义 A 通过隐喻连接从概念 B 中衍生而来,语义 B 通过意象图式转换从概念 A 中衍生而来,语义 B 通过隐喻连接从概念 A 中衍生而来,B,A,D,A,Incorrect,Incorrect,Incorrect
+Q3_开_enlarge_0232,Q3,"改革开放以来，中国在现代化的道路上取得了重大成果
+该桥始建于1916年，全长260米、宽27.7米，采用机械装置调节桥面高度以满足船只通行的开启桥设计。",metaphorical,语义 A 通过意象图式转换从概念 B 中衍生而来,语义 A 通过隐喻连接从概念 B 中衍生而来,语义 B 通过意象图式转换从概念 A 中衍生而来,语义 B 通过隐喻连接从概念 A 中衍生而来,B,B,C,B,Correct,Incorrect,Correct
+Q3_走_move_0325,Q3,"如：「一场大病之后，他整个人都走样了。
+必应词典为您提供走过去的释义，网络释义：goover;walkover;comeover；。",image schema,语义 A 通过意象图式转换从概念 B 中衍生而来,语义 A 通过隐喻连接从概念 B 中衍生而来,语义 B 通过意象图式转换从概念 A 中衍生而来,语义 B 通过隐喻连接从概念 A 中衍生而来,A,A,B,C,Correct,Incorrect,Incorrect
+Q3_开_cut_through_0207,Q3,"物理名词开路是指电路中两点间无电流通过或阻抗值(或电阻值)非常大的导体连接时的电路状态。
+然而，有用户遇到打不开win10电源…。",image schema,语义 A 通过意象图式转换从概念 B 中衍生而来,语义 A 通过隐喻连接从概念 B 中衍生而来,语义 B 通过意象图式转换从概念 A 中衍生而来,语义 B 通过隐喻连接从概念 A 中衍生而来,A,D,B,B,Incorrect,Incorrect,Incorrect
+Q3_吃_bear_0454,Q3,"14、假使你不爱我了，我就跳到你后面，抓你的皮，扯你的头发，把水淋到你的身上，叫你吃官司。
+另外，不要在很饿或者节食几餐专等欺骗餐大吃，很容易过量哦。",metaphorical,语义 A 通过意象图式转换从概念 B 中衍生而来,语义 A 通过隐喻连接从概念 B 中衍生而来,语义 B 通过意象图式转换从概念 A 中衍生而来,语义 B 通过隐喻连接从概念 A 中衍生而来,B,B,B,A,Correct,Correct,Incorrect
+Q3_开_enlarge_0234,Q3,"自盘古开天辟地以来，气就充斥天地。
+好饿啊，你打开冰箱看看有什么吃的吧！",metaphorical,语义 A 通过意象图式转换从概念 B 中衍生而来,语义 A 通过隐喻连接从概念 B 中衍生而来,语义 B 通过意象图式转换从概念 A 中衍生而来,语义 B 通过隐喻连接从概念 A 中衍生而来,B,B,C,D,Correct,Incorrect,Incorrect
+Q3_开_seperate_0238,Q3,"•上气道阻塞•上气道阻塞的患者在气管切开导管堵塞或错位时风险极高，这不仅…。
+本文介绍了电脑电源灯闪烁但无法开机的几种解决方法。",image schema,语义 A 通过意象图式转换从概念 B 中衍生而来,语义 A 通过隐喻连接从概念 B 中衍生而来,语义 B 通过意象图式转换从概念 A 中衍生而来,语义 B 通过隐喻连接从概念 A 中衍生而来,A,C,C,D,Incorrect,Incorrect,Incorrect
+Q3_吃_feel_0439,Q3,"江宁吃醋地看着他，娇嗔地说
+另外，不要在很饿或者节食几餐专等欺骗餐大吃，很容易过量哦。",metaphorical,语义 A 通过意象图式转换从概念 B 中衍生而来,语义 A 通过隐喻连接从概念 B 中衍生而来,语义 B 通过意象图式转换从概念 A 中衍生而来,语义 B 通过隐喻连接从概念 A 中衍生而来,B,D,C,C,Incorrect,Incorrect,Incorrect
+Q3_开_cut_through_0212,Q3,"中国驻圣彼得堡总领事罗占辉表示，中俄关系近年蓬勃发展，开桥仪式是两国友好关系…。
+“空调温度过低且门窗大开，电灯长明，电脑24小时持续开机。",image schema,语义 A 通过意象图式转换从概念 B 中衍生而来,语义 A 通过隐喻连接从概念 B 中衍生而来,语义 B 通过意象图式转换从概念 A 中衍生而来,语义 B 通过隐喻连接从概念 A 中衍生而来,A,A,C,A,Correct,Incorrect,Correct
+Q3_拿_occupy_0104,Q3,"可只有拿下0号，才有可能将附近高地全…。
+比如说，对于左撇子，他们在拿杯子时是否和常规方式相同。",image schema,语义 A 通过意象图式转换从概念 B 中衍生而来,语义 A 通过隐喻连接从概念 B 中衍生而来,语义 B 通过意象图式转换从概念 A 中衍生而来,语义 B 通过隐喻连接从概念 A 中衍生而来,A,A,A,B,Correct,Correct,Incorrect
+Q3_吃_feel_0432,Q3,"宋江听罢，吃了一惊，肚里寻思道：“晁盖是我心腹弟兄。
+但不可不吃东西饿肚子，至少吃点助消化的主食，如面条，以7分饱为…。",metaphorical,语义 A 通过意象图式转换从概念 B 中衍生而来,语义 A 通过隐喻连接从概念 B 中衍生而来,语义 B 通过意象图式转换从概念 A 中衍生而来,语义 B 通过隐喻连接从概念 A 中衍生而来,B,B,C,B,Correct,Incorrect,Correct
+Q3_吃_bear_0447,Q3,"如果我们吃了十分的苦，就能够获得十分的报酬，那么，我相信什么样的苦，我们都可以吃下去。
+但不可不吃东西饿肚子，至少吃点助消化的主食，如面条，以7分饱为…。",metaphorical,语义 A 通过意象图式转换从概念 B 中衍生而来,语义 A 通过隐喻连接从概念 B 中衍生而来,语义 B 通过意象图式转换从概念 A 中衍生而来,语义 B 通过隐喻连接从概念 A 中衍生而来,B,B,B,A,Correct,Correct,Incorrect
+Q3_拿_control_0076,Q3,"并非所有女性生来就能做到“拿得起，放得下”，很多人都是历经种种挫折后才懂得人生的真谛。
+房子没拿钥匙可能需交物业费。",metaphorical,语义 A 通过意象图式转换从概念 B 中衍生而来,语义 A 通过隐喻连接从概念 B 中衍生而来,语义 B 通过意象图式转换从概念 A 中衍生而来,语义 B 通过隐喻连接从概念 A 中衍生而来,B,B,D,B,Correct,Incorrect,Correct
+Q3_开_enlarge_0227,Q3,"下载适用于专业Java和Kotlin开发的卓越IDEIntelliJIDEA的最新版本。
+“空调温度过低且门窗大开，电灯长明，电脑24小时持续开机。",metaphorical,语义 A 通过意象图式转换从概念 B 中衍生而来,语义 A 通过隐喻连接从概念 B 中衍生而来,语义 B 通过意象图式转换从概念 A 中衍生而来,语义 B 通过隐喻连接从概念 A 中衍生而来,B,B,B,A,Correct,Correct,Incorrect
+Q3_拿_occupy_0096,Q3,"11亿，90后北大教授创记录，拿下具身智能最大融资，宁德时代领投。
+这是真皮女士长款拉链荔枝纹牛皮革日本手拿钱包日式长枥木财布wallet的详细页…。",image schema,语义 A 通过意象图式转换从概念 B 中衍生而来,语义 A 通过隐喻连接从概念 B 中衍生而来,语义 B 通过意象图式转换从概念 A 中衍生而来,语义 B 通过隐喻连接从概念 A 中衍生而来,A,B,A,D,Incorrect,Correct,Incorrect
+Q3_拿_control_0077,Q3,"拿得起放得下，汉语成语，意思为拿得起放得下是指在对待两难的问题上，做决定敢做敢当，当机立断[1]。
+新房没拿钥匙可能也要交物业费。",metaphorical,语义 A 通过意象图式转换从概念 B 中衍生而来,语义 A 通过隐喻连接从概念 B 中衍生而来,语义 B 通过意象图式转换从概念 A 中衍生而来,语义 B 通过隐喻连接从概念 A 中衍生而来,B,A,A,B,Incorrect,Incorrect,Correct
+Q3_拿_occupy_0098,Q3,"33DAI拿到了一个n×mn×m的扫雷局面。
+手拿笔感觉没力气可能与肌肉疲劳、神经受压、血液循环障碍或基础疾病有关。",image schema,语义 A 通过意象图式转换从概念 B 中衍生而来,语义 A 通过隐喻连接从概念 B 中衍生而来,语义 B 通过意象图式转换从概念 A 中衍生而来,语义 B 通过隐喻连接从概念 A 中衍生而来,A,B,D,D,Incorrect,Incorrect,Incorrect
+Q3_走_social_contact_0353,Q3,"所以呢，女生如果不想自己的后门经常被男生走的话，最好的办法，就是当男生第一次提出要走后门…。
+走气，汉语词语，词义有两种，一是指漏泄气体，二是比喻泄劲。",metaphorical,语义 A 通过意象图式转换从概念 B 中衍生而来,语义 A 通过隐喻连接从概念 B 中衍生而来,语义 B 通过意象图式转换从概念 A 中衍生而来,语义 B 通过隐喻连接从概念 A 中衍生而来,B,B,B,C,Correct,Correct,Incorrect
+Q3_走_social_contact_0349,Q3,"走街串巷的意思、解释和含义:走大街串小巷，指走遍居民聚集地的各个角落。
+风声总会走漏，这些见不得人的勾当终于东窗事发了。",metaphorical,语义 A 通过意象图式转换从概念 B 中衍生而来,语义 A 通过隐喻连接从概念 B 中衍生而来,语义 B 通过意象图式转换从概念 A 中衍生而来,语义 B 通过隐喻连接从概念 A 中衍生而来,B,C,C,A,Incorrect,Incorrect,Incorrect
+Q3_吃_feel_0441,Q3,"走在夜路上，任何一点动静都会让那女孩吃一惊
+肉类作为优质蛋白的重要来源，如果不吃或者吃不够，直接影响蛋…。",metaphorical,语义 A 通过意象图式转换从概念 B 中衍生而来,语义 A 通过隐喻连接从概念 B 中衍生而来,语义 B 通过意象图式转换从概念 A 中衍生而来,语义 B 通过隐喻连接从概念 A 中衍生而来,B,B,C,A,Correct,Incorrect,Incorrect
+Q3_走_move_0337,Q3,"“轮台九月风夜吼，一川碎石大如斗，随风满地石乱走。
+我攥紧书包带子，独自走在回家的小路上。",image schema,语义 A 通过意象图式转换从概念 B 中衍生而来,语义 A 通过隐喻连接从概念 B 中衍生而来,语义 B 通过意象图式转换从概念 A 中衍生而来,语义 B 通过隐喻连接从概念 A 中衍生而来,A,A,B,B,Correct,Incorrect,Incorrect
+Q3_吃_bear_0449,Q3,"“能吃苦”不是“找苦吃”，不是故意降低生活标准、制造苦难历练；“能…。
+在运动量不变的前提下，每天多吃一口饭，或半个饺子，或一小把坚果，一年体重可增加3…。",metaphorical,语义 A 通过意象图式转换从概念 B 中衍生而来,语义 A 通过隐喻连接从概念 B 中衍生而来,语义 B 通过意象图式转换从概念 A 中衍生而来,语义 B 通过隐喻连接从概念 A 中衍生而来,B,D,C,C,Incorrect,Incorrect,Incorrect
+Q3_开_seperate_0249,Q3,"大家都在说丘吉尔的一句话大致意思是：如果有人冤枉你吃了他的东西，不要想着剖开肚皮去自证清白，而是…。
+好饿啊，你打开冰箱看看有什么吃的吧！",image schema,语义 A 通过意象图式转换从概念 B 中衍生而来,语义 A 通过隐喻连接从概念 B 中衍生而来,语义 B 通过意象图式转换从概念 A 中衍生而来,语义 B 通过隐喻连接从概念 A 中衍生而来,A,A,A,D,Correct,Correct,Incorrect
+Q3_走_move_0336,Q3,"""走漏""作为汉语动词，核心义项指信息或秘密的非授权传播，读音为zǒulòu[2-3]。
+”走自己的路，是对党领导人民百年奋斗历史经…。",image schema,语义 A 通过意象图式转换从概念 B 中衍生而来,语义 A 通过隐喻连接从概念 B 中衍生而来,语义 B 通过意象图式转换从概念 A 中衍生而来,语义 B 通过隐喻连接从概念 A 中衍生而来,A,D,C,A,Incorrect,Incorrect,Correct
+Q3_走_move_0332,Q3,"""走漏""是一个常用词语，主要表示消息、情报等不经意间泄露或传出。
+“我在情感上的愚钝就像是门窗紧闭的屋子，虽然爱情的脚步在屋前走过去又走过来，我也听到了，可是…。",image schema,语义 A 通过意象图式转换从概念 B 中衍生而来,语义 A 通过隐喻连接从概念 B 中衍生而来,语义 B 通过意象图式转换从概念 A 中衍生而来,语义 B 通过隐喻连接从概念 A 中衍生而来,A,D,B,B,Incorrect,Incorrect,Incorrect
+Q3_吃_bear_0446,Q3,"到现在仍然具有现实意义，吃亏其实是赚到了，吃亏的…。
+“今天的鸡块拌饭特别入味，辣子炒肉、鱼香肉丝也都很好吃，辣子鸡更是我的最爱。",metaphorical,语义 A 通过意象图式转换从概念 B 中衍生而来,语义 A 通过隐喻连接从概念 B 中衍生而来,语义 B 通过意象图式转换从概念 A 中衍生而来,语义 B 通过隐喻连接从概念 A 中衍生而来,B,B,B,D,Correct,Correct,Incorrect
+Q3_吃_bear_0459,Q3,"我们都知道，拒绝客人进门就是让客人吃闭门羹。
+-“只吃肉不吃主食”的减肥方法存在一定的风险。",metaphorical,语义 A 通过意象图式转换从概念 B 中衍生而来,语义 A 通过隐喻连接从概念 B 中衍生而来,语义 B 通过意象图式转换从概念 A 中衍生而来,语义 B 通过隐喻连接从概念 A 中衍生而来,B,B,B,B,Correct,Correct,Correct
+Q3_拿_occupy_0095,Q3,"拔河比赛点面结合600字左右-我看了看这局势，本想一个用力直接拿下比赛了。
+男士钱包/手拿包选购技巧柠檬红茶加点冰。",image schema,语义 A 通过意象图式转换从概念 B 中衍生而来,语义 A 通过隐喻连接从概念 B 中衍生而来,语义 B 通过意象图式转换从概念 A 中衍生而来,语义 B 通过隐喻连接从概念 A 中衍生而来,A,A,B,D,Correct,Incorrect,Incorrect
+Q3_开_seperate_0246,Q3,"（2017河南）左图是给定的立体图形，将其从任一面剖开，下面哪一项不可能是该立体图形的截面。
+如果您打开了局域网世界，您应当可…。",image schema,语义 A 通过意象图式转换从概念 B 中衍生而来,语义 A 通过隐喻连接从概念 B 中衍生而来,语义 B 通过意象图式转换从概念 A 中衍生而来,语义 B 通过隐喻连接从概念 A 中衍生而来,A,A,C,B,Correct,Incorrect,Incorrect
+Q3_吃_feel_0431,Q3,"巴菲特读书之多，我读书之多，可能会让你感到吃惊。
+“今天的鸡块拌饭特别入味，辣子炒肉、鱼香肉丝也都很好吃，辣子鸡更是我的最爱。",metaphorical,语义 A 通过意象图式转换从概念 B 中衍生而来,语义 A 通过隐喻连接从概念 B 中衍生而来,语义 B 通过意象图式转换从概念 A 中衍生而来,语义 B 通过隐喻连接从概念 A 中衍生而来,B,B,D,C,Correct,Incorrect,Incorrect
+Q3_拿_control_0089,Q3,"凭这么点手段就想拿住我，没那么容易！
+比如说，对于左撇子，他们在拿杯子时是否和常规方式相同。",metaphorical,语义 A 通过意象图式转换从概念 B 中衍生而来,语义 A 通过隐喻连接从概念 B 中衍生而来,语义 B 通过意象图式转换从概念 A 中衍生而来,语义 B 通过隐喻连接从概念 A 中衍生而来,B,B,C,A,Correct,Incorrect,Incorrect
+Q3_走_social_contact_0342,Q3,"就是过年过节回家，不再走亲戚了，甚至是屏蔽了一…。
+文章详细介绍了计算机图形学中走样的概念，以及反走样技术，特别是多重采样抗锯齿(MSAA)方法。",metaphorical,语义 A 通过意象图式转换从概念 B 中衍生而来,语义 A 通过隐喻连接从概念 B 中衍生而来,语义 B 通过意象图式转换从概念 A 中衍生而来,语义 B 通过隐喻连接从概念 A 中衍生而来,B,C,C,D,Incorrect,Incorrect,Incorrect
+Q3_走_social_contact_0352,Q3,"在欧美，竟然有超过1.3亿人已经体验过走后门的滋…。
+“轮台九月风夜吼，一川碎石大如斗，随风满地石乱走。",metaphorical,语义 A 通过意象图式转换从概念 B 中衍生而来,语义 A 通过隐喻连接从概念 B 中衍生而来,语义 B 通过意象图式转换从概念 A 中衍生而来,语义 B 通过隐喻连接从概念 A 中衍生而来,B,B,B,D,Correct,Correct,Incorrect
